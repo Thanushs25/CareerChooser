@@ -1,2 +1,0 @@
-# CareerChooser
-Project Work.
