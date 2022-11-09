@@ -1,0 +1,1025 @@
+S NO,NAME,Gender,MATHS_10,SCIENCE_10,SOCIAL_STUDIES_10,MATHS_12,PHYSICS_12,CHEMSITRY_12,BIOLOGY_12,CertificationGained_MB,Olympiads Qualified,Technical Projects,ENGINEERING CUT OFF %,MONTHLY_SURVEY_CONCLUSION
+1,Thanush S,Male,89,97,98,100,94,90,98,Physics,1,1,96,Maths
+2,Praveen D,Male,98,68,68,69,88,77,72,English,1,4,75.75,Physics
+3,Santhosh Kumar S,Male,97,95,54,90,74,99,73,Maths,2,2,88.25,History
+4,Ashok ,Male,96,89,24,47,67,92,88,Chemistry,1,1,63.25,Sports
+5,Pranesh,Male,95,65,87,76,64,77,90,Biology,2,0,73.25,Biology
+6,arun,Male,94,100,68,71,95,99,67,Language,2,0,84,Maths
+7,karthi,Male,92,47,48,88,79,83,70,English,2,0,84.5,Extracurricular
+8,Venkat,Male,97,65,67,40,84,80,67,Zoology,3,2,61,Maths
+9,kavin,Male,68,78,78,64,53,78,79,Maths,3,2,64.75,Zoology
+10,vishnu,Male,97,98,100,38,60,72,61,Physics,3,2,52,Maths
+11,madan,Male,100,68,98,58,68,99,94,Biology,4,2,70.75,Sports
+12,dhanush,Male,62,58,99,40,51,76,72,Maths,6,3,51.75,Physics
+13,vijay,Male,54,79,98,65,76,88,60,Physics,5,1,73.5,History
+14,simbu,Male,86,97,97,78,68,75,64,Zoology,8,4,74.75,Biology
+15,agarwal,Male,32,58,94,50,53,93,73,Chemistry,7,1,61.5,Maths
+16,venkat,Male,96,87,100,69,94,91,60,Maths,4,3,80.75,Sports
+17,prabhu,Male,58,84,96,88,88,81,65,Physics,1,1,86.25,Extracurricular
+18,kathir,Male,54,86,92,18,85,93,77,Maths,1,0,53.5,Sports
+19,ragavan,Male,55,83,93,46,74,72,78,Chemistry,2,2,59.5,Extracurricular
+20,selva,Male,88,100,91,54,68,76,87,English,1,0,63,Extracurricular
+21,tamil,Male,66,81,97,66,50,99,69,Chemistry,6,3,70.25,Maths
+22,selvan,Male,55,98,95,65,76,94,85,Language,0,0,75,Physics
+23,Maha,Female,41,89,97,44,63,83,99,Physics,5,2,58.5,Sports
+24,selvi,Female,89,99,88,69,98,74,79,Biology,0,0,77.5,Zoology
+25,kavitha,Female,89,88,55,74,76,79,89,Zoology,0,0,75.75,Extracurricular
+26,jamila,Female,98,77,75,73,56,84,61,Physics,1,0,71.5,History
+27,shivani,Female,99,55,54,69,91,74,90,Maths,4,1,75.75,Sports
+28,naveena,Female,90,44,55,67,73,91,84,English,5,3,74.5,Chemistry
+29,sruthika,Female,99,99,55,70,55,86,81,Language,5,3,70.25,Physics
+30,parvatha,Female,88,88,100,62,54,91,96,Chemistry,3,1,67.25,Extracurricular
+31,santhi,Female,87,77,44,69,72,83,96,Physics,4,3,73.25,History
+32,nikitha,Female,98,88,22,63,92,84,91,Maths,0,0,75.5,Chemistry
+33,keerthi,Female,97,77,55,56,57,71,95,English,3,2,60,Extracurricular
+34,abinaya,Female,97,88,88,40,73,78,90,Chemistry,5,0,57.75,Physics
+35,arunesh,Female,85,99,90,97,64,74,79,Maths,5,0,83,History
+36,thanya,Female,75,88,77,81,50,84,84,Physics,5,0,74,Chemistry
+37,sangavi,Female,74,77,66,74,90,82,65,Chemistry,5,0,80,History
+38,thamana,Female,75,89,33,50,93,74,74,Maths,3,2,66.75,Sports
+39,thrisha,Female,75,88,55,75,82,85,82,Physics,3,2,79.25,Sports
+40,raveena,Female,87,89,88,57,73,98,80,Maths,7,4,71.25,Extracurricular
+41,manasa,Female,85,77,99,55,68,100,70,English,4,1,69.5,Physics
+42,kathrina,Female,82,88,55,58,90,90,64,Language,4,2,74,Chemistry
+43,kailash,Female,81,78,85,53,96,91,78,Maths,5,4,73.25,Maths
+44,kavya,Female,84,88,55,59,86,74,99,Physics,4,3,69.5,Maths
+45,pavithra,Female,87,77,66,50,88,96,98,Chemistry,6,3,71,Extracurricular
+46,divya,Female,82,87,55,65,58,72,89,Physics,6,3,65,Sports
+47,yogeshwari,Female,85,77,99,55,94,88,62,Maths,3,1,73,Sports
+48,jenitha,Female,86,99,88,66,85,92,88,Language,4,4,77.25,Extracurricular
+49,priya,Female,89,99,77,57,88,96,73,Language,0,0,74.5,Sports
+50,malvika,Female,82,88,55,82,98,77,62,Language,0,0,84.75,Maths
+51,nayanthara,Female,89,99,88,53,80,76,75,English,4,2,65.5,Sports
+52,gopika,Female,68,99,55,77,60,73,78,English,6,2,71.75,Extracurricular
+53,kowsalya,Female,98,88,88,53,97,92,88,Physics,6,2,73.75,Physics
+54,praveena,Female,97,88,44,88,65,94,79,Chemistry,0,0,83.75,Chemistry
+55,nivetha,Female,96,88,55,71,69,78,91,Physics,4,3,72.25,Maths
+56,atchaya,Female,95,77,55,33,95,91,88,Physics,4,1,63,Physics
+57,sumithra,Female,94,55,99,82,95,84,85,Maths,1,1,85.75,Physics
+58,oviyaa,Female,98,44,99,52,96,100,66,Maths,4,2,75,Chemistry
+59,sandy,Female,97,55,99,58,69,76,60,Language,3,2,65.25,Zoology
+60,sandhiya,Female,96,88,99,0,56,87,95,Chemistry,2,1,35.75,Biology
+61,jennifer,Female,95,87,99,79,95,97,73,English,5,1,87.5,Maths
+62,hema,Female,94,97,99,39,55,96,87,Physics,1,1,57.25,Zoology
+63,shamala,Female,97,96,99,62,65,84,66,Chemistry,3,0,68.25,Zoology
+64,madhu,Female,92,97,99,69,77,96,72,English,7,4,77.75,Biology
+65,rahul,Male,91,96,66,59,91,89,63,Maths,5,1,74.5,Biology
+66,varun,Male,93,95,66,67,58,90,67,English,3,2,70.5,Extracurricular
+67,ram,Male,98,94,66,45,86,84,61,Maths,4,0,65,Extracurricular
+68,ravi,Male,97,97,66,60,63,71,92,Maths,1,1,63.5,Zoology
+69,tharun,Male,96,96,87,61,70,73,64,Physics,5,2,66.25,Biology
+70,saran,Male,95,95,77,39,96,92,77,Chemistry,1,1,66.5,Maths
+71,charan,Male,94,98,77,58,79,72,76,Maths,3,2,66.75,Sports
+72,karan,Male,93,66,87,63,73,87,99,Chemistry,4,3,71.5,Chemistry
+73,yogi,Male,92,87,98,41,97,82,100,Physics,5,4,65.25,Physics
+74,velu,Male,91,55,55,61,100,93,100,Physics,0,0,78.75,Extracurricular
+75,surya,Male,90,87,55,49,88,92,64,Chemistry,5,2,69.5,Biology
+76,ajith,Male,96,88,55,44,76,91,98,Maths,5,2,63.75,Physics
+77,abdul,Male,93,88,55,30,61,80,82,Biology,6,4,50.25,Maths
+78,rahman,Male,92,88,77,80,100,74,75,Biology,8,3,83.5,Biology
+79,prakash,Male,95,88,77,61,62,100,89,Biology,4,3,71,Zoology
+80,sreenith,Male,98,88,77,62,56,79,71,Biology,2,1,64.75,Biology
+81,paramesh,Male,89,77,87,47,57,91,62,Chemistry,3,2,60.5,Extracurricular
+82,vishnu,Male,98,77,88,49,91,83,60,Physics,5,2,68,Physics
+83,vishal,Male,65,77,88,50,57,86,79,Chemistry,4,2,60.75,Sports
+84,harish,Male,98,77,88,72,81,92,93,Maths,6,5,79.25,Sports
+85,hariram,Male,97,55,88,42,86,84,96,Biology,2,1,63.5,Sports
+86,gowtham,Male,66,55,88,73,63,76,60,Physics,4,1,71.25,Sports
+87,mukundhan,Male,95,66,88,76,69,70,62,Maths,5,2,72.75,Extracurricular
+88,vijaya,Female,98,99,89,71,59,97,88,Biology,2,2,74.5,Maths
+89,bhuvanika,Female,97,55,45,58,98,96,100,Physics,8,4,77.5,Extracurricular
+90,boomika,Female,96,55,87,73,73,71,60,Language,6,3,72.5,Maths
+91,poorvisha,Female,95,55,48,65,94,79,70,English,3,2,75.75,Biology
+92,vyshya,Female,94,55,88,27,57,90,76,Language,3,2,50.25,Zoology
+93,deepika,Female,93,88,44,71,98,78,95,Physics,3,1,79.5,Extracurricular
+94,sreemathi,Female,92,55,55,43,60,82,75,English,3,1,57,Physics
+95,jeevika,Female,91,88,55,79,58,98,79,Language,5,4,78.5,Chemistry
+96,bhuvaneshwari,Female,98,55,22,78,79,73,99,Chemistry,2,1,77,Chemistry
+97,subhasree,Female,65,44,55,65,80,97,79,Maths,0,0,76.75,Physics
+98,jaisree,Female,65,97,88,63,77,93,79,Chemistry,5,2,74,Maths
+99,dharshini,Female,98,97,88,58,83,71,68,Physics,4,1,67.5,Physics
+100,bhavadharani,Female,97,96,88,65,54,100,77,Maths,4,3,71,Extracurricular
+101,abarna,Female,95,95,88,79,86,87,72,English,6,5,82.75,Chemistry
+102,jesimma,Female,94,94,100,68,50,72,81,Physics,2,1,64.5,Maths
+103,dhanushya,Female,95,66,88,85,75,75,100,English,6,5,80,Physics
+104,aiswarya,Female,99,66,88,60,99,75,74,Maths,6,5,73.5,Extracurricular
+105,saranya,Female,92,55,99,98,56,86,73,Zoology,7,4,84.5,Zoology
+106,James Walker,Male,55,45,56,58,92,93,66,Physics,2,0,75.25,Chemistry
+107,Velma Clemons,Male,75,96,78,87,97,88,65,Maths,3,1,89.75,Sports
+108,Kibo Underwood,Male,25,54,89,66,85,77,99,English,1,1,73.5,Maths
+109,Louis Mcgee,Female,78,96,86,52,85,80,98,Language,4,1,67.25,Physics
+110,Phyllis Paul,Male,58,96,78,70,81,88,63,Chemistry,2,1,77.25,History
+111,Zenaida Decker,Female,45,87,52,77,78,95,79,Physics,3,1,81.75,Sports
+112,Gillian Tillman,Male,55,64,61,62,89,78,80,Maths,3,1,72.75,Biology
+113,Constance Boone,Male,54,76,87,54,80,97,75,English,5,3,71.25,Maths
+114,Giselle Lancaster,Female,55,63,89,51,73,79,82,Chemistry,5,3,63.5,Extracurricular
+115,Kirsten Mcdowell,Male,96,46,77,99,91,95,85,Maths,6,5,96,Maths
+116,Jake Moss,Male,65,68,99,84,84,75,91,Physics,2,1,81.75,Zoology
+117,Jake Moss,Male,2,79,90,75,82,87,79,Chemistry,4,1,79.75,Maths
+118,Sujith,Male,74,98,96,78,81,100,76,Maths,3,1,84.25,Sports
+119,Oliver Bradley,Male,45,64,97,51,81,84,87,Physics,9,3,66.75,Physics
+120,Adam Clark,Male,53,82,98,55,81,97,97,Maths,4,2,72,History
+121,Suganya,Female,52,77,89,79,66,90,87,English,0,0,78.5,Biology
+122,Sarvesh,Male,61,98,89,91,70,89,96,Language,4,2,85.25,Maths
+123,Jake Moss,Male,87,68,79,88,91,91,74,Maths,5,4,89.5,Sports
+124,John,Male,89,100,88,63,58,92,82,Physics,5,4,69,Extracurricular
+125,Suresh,Male,77,83,75,83,73,79,98,Chemistry,6,3,79.5,Sports
+126,Ramesh,Male,72,72,76,87,99,83,83,Physics,10,3,89,Extracurricular
+127,Jessica,Female,87,69,79,72,82,78,97,Maths,9,4,76,Extracurricular
+128,Jennifer,Female,57,90,99,65,90,71,64,Language,4,2,72.75,Maths
+129,Annu,Female,98,47,99,82,83,87,77,Language,6,4,83.5,Physics
+130,pooja,Female,55,76,76,51,97,98,77,Language,4,3,74.25,Sports
+131,Ritesh,Male,78,71,90,89,91,96,97,English,7,5,91.25,Zoology
+132,Farha,Female,67,88,33,53,95,85,61,English,2,2,71.5,Extracurricular
+133,Mukesh,Male,61,40,37,87,82,93,60,Physics,4,1,87.25,History
+134,"Braund, Mr. Owen Harris",male,75,64,67,75,95,77,68,Chemistry,4,3,80.5,Sports
+135,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,67,38,79,74,80,72,62,Physics,0,0,75,Chemistry
+136,"Heikkinen, Miss. Laina",female,85,58,19,58,69,78,60,Physics,5,3,65.75,Physics
+137,Futrelle,female,63,40,89,51,87,82,70,Maths,3,1,67.75,Extracurricular
+138,Allen,male,90,65,89,70,87,99,77,Maths,3,1,81.5,History
+139,"Moran, Mr. James",male,45,78,98,59,72,99,84,Language,3,2,72.25,Chemistry
+140,"McCarthy, Mr. Timothy J",male,49,50,65,71,90,84,76,Chemistry,4,3,79,Extracurricular
+141,"Palsson, Master. Gosta Leonard",male,64,69,68,76,63,88,96,English,3,1,75.75,Physics
+142,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,45,88,98,59,55,82,72,Physics,6,2,63.75,History
+143,"Nasser, Mrs. Nicholas (Adele Achem)",female,55,18,98,42,88,86,65,Chemistry,3,1,64.5,Chemistry
+144,"Sandstrom, Miss. Marguerite Rut",female,51,46,87,57,75,78,61,English,5,3,66.75,History
+145,"Bonnell, Miss. Elizabeth",female,43,54,95,88,92,76,96,Maths,4,2,86,Sports
+146,"Saundercock, Mr. William Henry",male,52,66,98,22,100,91,71,English,6,4,58.75,Sports
+147,"Andersson, Mr. Anders Johan",male,99,65,97,88,58,88,99,Maths,3,2,80.5,Extracurricular
+148,"Vestrom, Miss. Hulda Amanda Adolfina",female,54,44,98,73,89,77,94,Maths,8,3,78,Physics
+149,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,69,94,68,55,87,75,Physics,4,3,69.5,Chemistry
+150,"Rice, Master. Eugene",male,67,74,95,100,85,94,61,Chemistry,5,3,94.75,Maths
+151,"Williams, Mr. Charles Eugene",male,63,73,96,62,69,83,81,Maths,2,1,69,Maths
+152,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,71,69,97,77,55,93,81,Chemistry,3,1,75.5,Extracurricular
+153,"Masselmani, Mrs. Fatima",female,42,67,91,59,68,70,63,Physics,5,2,64,Sports
+154,"Fynney, Mr. Joseph J",male,44,70,92,54,98,92,75,Physics,5,3,74.5,Sports
+155,"Beesley, Mr. Lawrence",male,44,62,93,62,62,82,88,Chemistry,5,2,67,Extracurricular
+156,"McGowan, Miss. Anna ""Annie""",female,87,69,97,70,57,99,96,Maths,4,3,74,Sports
+157,"Sloper, Mr. William Thompson",male,77,63,95,66,91,94,81,Biology,4,3,79.25,Maths
+158,"Palsson, Miss. Torborg Danira",female,55,56,87,60,56,97,64,Biology,5,3,68.25,Sports
+159,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,43,40,56,61,79,99,91,Biology,3,2,75,Extracurricular
+160,"Emir, Mr. Farred Chehab",male,50,97,98,66,88,76,85,Biology,3,2,74,Physics
+161,"Fortune, Mr. Charles Alexander",male,55,81,87,82,71,89,75,Chemistry,3,1,81,Chemistry
+162,"O'Dwyer, Miss. Ellen ""Nellie""",female,88,74,84,75,90,71,75,Physics,1,1,77.75,Maths
+163,"Todoroff, Mr. Lalio",male,72,50,78,49,96,81,86,Chemistry,2,1,68.75,Physics
+164,"Uruchurtu, Don. Manuel E",male,59,75,77,52,96,78,95,Maths,2,0,69.5,Physics
+165,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,100,57,58,81,100,71,65,Biology,7,3,83.25,Chemistry
+166,"Glynn, Miss. Mary Agatha",female,91,55,74,96,89,92,83,Physics,4,1,93.25,Zoology
+167,"Wheadon, Mr. Edward H",male,76,58,78,53,58,83,94,Maths,6,1,61.75,Biology
+168,"Meyer, Mr. Edgar Joseph",male,91,53,79,58,88,100,63,Biology,0,0,76,Maths
+169,"Holverson, Mr. Alexander Oskar",male,98,59,75,68,79,90,98,Physics,2,2,76.25,Zoology
+170,"Mamee, Mr. Hanna",male,98,50,76,67,70,97,67,Language,4,2,75.25,Zoology
+171,"Cann, Mr. Ernest Charles",male,42,65,71,72,60,84,91,English,0,0,72,Biology
+172,"Vander Planke, Miss. Augusta Maria",female,97,55,72,94,70,92,69,Language,0,0,87.5,Biology
+173,"Nicola-Yarred, Miss. Jamila",female,60,66,73,79,68,78,68,Physics,0,0,76,Extracurricular
+174,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,89,57,48,63,83,89,63,English,2,0,74.5,Extracurricular
+175,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,58,82,47,43,96,73,70,Language,0,0,63.75,Zoology
+176,"Kraeff, Mr. Theodor",male,77,53,84,81,90,83,70,Chemistry,0,0,83.75,Biology
+177,"Laroche, Miss. Simonne Marie Anne Andree",female,66,77,86,46,53,70,77,Maths,2,1,53.75,Maths
+178,"Devaney, Miss. Margaret Delia",female,93,53,98,71,77,92,88,Chemistry,6,2,77.75,Sports
+179,"Rogers, Mr. William John",male,83,88,98,52,93,94,90,Physics,0,0,72.75,Chemistry
+180,"Lennon, Mr. Denis",male,84,71,97,97,87,93,86,Maths,2,1,93.5,Physics
+181,"O'Driscoll, Miss. Bridget",female,62,33,96,62,70,89,77,English,4,1,70.75,Extracurricular
+182,"Samaan, Mr. Youssef",male,52,82,95,46,83,98,82,Physics,0,0,68.25,Biology
+183,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,72,52,94,50,82,91,67,English,2,2,68.25,Physics
+184,"Panula, Master. Juha Niilo",male,61,58,93,65,56,76,99,Maths,6,4,65.5,Maths
+185,"Nosworthy, Mr. Richard Cater",male,77,0,97,45,75,78,74,Maths,4,4,60.75,Biology
+186,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,47,79,95,65,63,75,88,Biology,5,2,67,Zoology
+187,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,90,39,94,80,57,72,77,Physics,5,2,72.25,Biology
+188,"Ostby, Mr. Engelhart Cornelius",male,80,62,96,62,55,76,62,Chemistry,6,5,63.75,Extracurricular
+189,"Woolner, Mr. Hugh",male,81,69,92,48,90,80,68,Physics,6,2,66.5,Physics
+190,"Rugg, Miss. Emily",female,52,59,91,77,96,76,72,Maths,6,4,81.5,Sports
+191,"Novel, Mr. Mansouer",male,47,67,94,66,75,87,98,English,6,4,73.5,Sports
+192,"West, Miss. Constance Mirium",female,71,45,97,76,86,85,74,Language,3,2,80.75,Sports
+193,"Goodwin, Master. William Frederick",male,76,60,88,62,77,98,65,Maths,6,5,74.75,Sports
+194,"Sirayanian, Mr. Orsen",male,59,61,95,77,92,96,75,Physics,3,1,85.5,Extracurricular
+195,"Icard, Miss. Amelie",female,62,39,95,69,72,74,99,Chemistry,0,0,71,Maths
+196,"Harris, Mr. Henry Birkhardt",male,99,58,66,61,56,73,77,Maths,2,0,62.75,Extracurricular
+197,"Skoog, Master. Harald",male,55,63,85,59,83,86,77,Language,2,0,71.75,Maths
+198,"Stewart, Mr. Albert A",male,75,41,85,55,78,84,88,Physics,2,0,68,Biology
+199,"Moubarek, Master. Gerios",male,52,61,89,45,77,94,98,Chemistry,5,3,65.25,Zoology
+200,"Nye, Mrs. (Elizabeth Ramell)",female,52,49,39,78,84,79,71,Maths,0,0,79.75,Extracurricular
+201,"Crease, Mr. Ernest James",male,58,44,56,67,91,75,86,Chemistry,4,2,75,Physics
+202,"Andersson, Miss. Erna Alexandra",female,83,30,25,65,77,84,73,Physics,4,2,72.75,Chemistry
+203,"Kink, Mr. Vincenz",male,85,80,88,69,74,93,89,English,4,3,76.25,Chemistry
+204,"Jenkin, Mr. Stephen Curnow",male,66,61,98,57,73,86,72,Physics,3,1,68.25,Physics
+205,"Goodwin, Miss. Lillian Amy",female,71,62,65,59,94,92,61,Chemistry,4,3,76,Maths
+206,"Hood, Mr. Ambrose Jr",male,70,47,98,74,77,75,86,Chemistry,4,3,75,Physics
+207,"Chronopoulos, Mr. Apostolos",male,60,49,65,82,73,73,65,Language,4,3,77.5,Extracurricular
+208,"Bing, Mr. Lee",male,70,50,97,81,65,77,66,Maths,4,1,76,Chemistry
+209,"Moen, Mr. Sigurd Hansen",male,48,72,65,74,66,95,92,English,0,0,77.25,Maths
+210,"Staneff, Mr. Ivan",male,75,42,98,58,50,72,84,English,3,1,59.5,Physics
+211,"Moutal, Mr. Rahamin Haim",male,50,73,65,80,54,76,74,Physics,0,0,72.5,Extracurricular
+212,"Caldwell, Master. Alden Gates",male,93,76,67,35,90,90,67,Chemistry,2,1,62.5,Zoology
+213,"Dowdell, Miss. Elizabeth",female,90,71,64,42,53,99,63,Maths,4,1,59,Chemistry
+214,"Waelens, Mr. Achille",male,86,58,68,60,64,100,89,Chemistry,7,3,71,Sports
+215,"Sheerlinck, Mr. Jan Baptist",male,54,73,69,87,97,73,90,Physics,4,2,86,Maths
+216,"McDermott, Miss. Brigdet Delia",female,79,65,98,84,66,92,100,Maths,6,3,81.5,Physics
+217,"Carrau, Mr. Francisco M",male,82,27,98,83,85,100,64,English,3,3,87.75,History
+218,"Ilett, Miss. Bertha",female,68,71,97,34,75,76,98,Physics,0,4,54.75,Sports
+219,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,51,43,96,66,63,85,85,English,4,1,70,Biology
+220,"Ford, Mr. William Neal",male,86,79,95,61,75,85,82,Maths,1,1,70.5,Maths
+221,"Slocovski, Mr. Selman Francis",male,97,78,52,56,87,74,98,Maths,2,1,68.25,Extracurricular
+222,"Fortune, Miss. Mabel Helen",female,75,65,90,87,63,75,92,Biology,1,3,78,Maths
+223,"Celotti, Mr. Francesco",male,61,63,95,55,89,90,78,Physics,4,2,72.25,Zoology
+224,"Christmann, Mr. Emil",male,63,58,54,86,88,78,100,Chemistry,3,3,84.5,Maths
+225,"Andreasson, Mr. Paul Edvin",male,92,65,96,52,93,84,87,Physics,5,2,70.25,Sports
+226,"Chaffee, Mr. Herbert Fuller",male,59,79,55,45,91,99,62,Maths,5,1,70,Physics
+227,"Dean, Mr. Bertram Frank",male,76,68,75,72,59,88,82,English,2,3,72.75,History
+228,"Coxon, Mr. Daniel",male,97,85,25,57,93,99,80,Language,5,5,76.5,Biology
+229,"Shorney, Mr. Charles Joseph",male,75,60,78,68,84,73,87,Maths,1,1,73.25,Maths
+230,"Goldschmidt, Mr. George B",male,93,98,58,88,71,70,84,Physics,3,5,79.25,Sports
+231,"Greenfield, Mr. William Bertram",male,47,58,52,76,65,96,88,Chemistry,5,3,78.25,Extracurricular
+232,"Doling, Mrs. John T (Ada Julia Bone)",female,56,87,61,46,85,86,97,Maths,1,4,65.75,Sports
+233,"Kantor, Mr. Sinai",male,96,66,87,67,58,88,98,Language,2,3,70,Extracurricular
+234,"Petranec, Miss. Matilda",female,61,52,89,92,59,86,67,Physics,5,5,82.25,Extracurricular
+235,"Petroff, Mr. Pastcho (""Pentcho"")",male,75,70,77,83,75,92,94,Chemistry,1,1,83.25,Maths
+236,"White, Mr. Richard Frasar",male,49,77,89,80,54,87,81,Maths,2,5,75.25,Physics
+237,"Johansson, Mr. Gustaf Joel",male,42,62,58,63,76,71,91,Chemistry,3,2,68.25,Sports
+238,"Gustafsson, Mr. Anders Vilhelm",male,50,54,56,64,55,100,89,Physics,4,1,70.75,Zoology
+239,"Mionoff, Mr. Stoytcho",male,68,51,75,54,85,100,97,English,2,1,73.25,Extracurricular
+240,"Salkjelsvik, Miss. Anna Kristine",female,79,99,83,84,78,82,69,Physics,3,2,82,History
+241,"Moss, Mr. Albert Johan",male,78,84,69,73,70,93,94,Chemistry,2,3,77.25,Sports
+242,"Rekic, Mr. Tido",male,67,75,83,80,71,70,84,Chemistry,1,5,75.25,Chemistry
+243,"Moran, Miss. Bertha",female,88,78,64,56,83,98,82,Language,2,4,73.25,Physics
+244,"Porter, Mr. Walter Chamberlain",male,48,51,92,59,55,89,93,Maths,5,1,65.5,Extracurricular
+245,"Zabour, Miss. Hileni",female,55,55,84,75,79,77,89,English,4,1,76.5,History
+246,"Barton, Mr. David John",male,98,79,78,85,50,98,64,English,1,4,79.5,Chemistry
+247,"Jussila, Miss. Katriina",female,77,91,96,89,75,85,88,Physics,4,3,84.5,Extracurricular
+248,"Attalah, Miss. Malake",female,77,88,82,58,96,98,93,English,4,5,77.5,Physics
+249,"Pekoniemi, Mr. Edvard",male,98,63,75,65,69,73,94,Physics,5,5,68,History
+250,"Connors, Mr. Patrick",male,71,83,87,68,95,89,65,Chemistry,1,5,80,Chemistry
+251,"Turpin, Mr. William John Robert",male,62,87,100,47,79,74,65,English,1,4,61.75,History
+252,"Baxter, Mr. Quigg Edmond",male,63,72,69,71,56,73,61,Maths,1,5,67.75,Sports
+253,"Andersson, Miss. Ellis Anna Maria",female,64,65,71,60,64,86,70,English,3,5,67.5,Sports
+254,"Hickman, Mr. Stanley George",male,74,82,94,80,78,80,99,Maths,3,1,79.5,Extracurricular
+255,"Moore, Mr. Leonard Charles",male,50,51,91,54,60,99,84,Maths,5,5,66.75,Physics
+256,"Nasser, Mr. Nicholas",male,92,89,92,62,89,72,92,Physics,2,4,71.25,Chemistry
+257,"Webber, Miss. Susan",female,48,53,61,64,53,70,71,Chemistry,2,1,62.75,Maths
+258,"White, Mr. Percival Wayland",male,92,87,97,78,85,81,68,Maths,5,3,80.5,Maths
+259,"Nicola-Yarred, Master. Elias",male,87,75,84,70,67,74,70,Chemistry,3,3,70.25,Extracurricular
+260,"McMahon, Mr. Martin",male,98,74,74,65,81,84,98,Physics,4,5,73.75,Sports
+261,"Madsen, Mr. Fridtjof Arne",male,82,58,81,64,95,79,81,Physics,2,1,75.5,Sports
+262,"Peter, Miss. Anna",female,50,51,73,79,64,80,88,Chemistry,2,1,75.5,Extracurricular
+263,"Ekstrom, Mr. Johan",male,56,70,99,44,87,75,76,Maths,4,3,62.5,Sports
+264,"Drazenoic, Mr. Jozef",male,46,59,71,99,92,80,69,Biology,2,1,92.5,Maths
+265,"Coelho, Mr. Domingos Fernandeo",male,60,71,96,76,95,79,95,Biology,4,5,81.5,Sports
+266,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,50,76,76,59,89,95,89,Biology,1,5,75.5,Extracurricular
+267,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,73,59,87,63,52,95,85,Biology,1,3,68.25,Physics
+268,"Sobey, Mr. Samuel James Hayden",male,55,42,61,69,67,94,60,Chemistry,1,1,74.75,Chemistry
+269,"Richard, Mr. Emile",male,81,57,70,88,55,90,80,Physics,1,1,80.25,Maths
+270,"Newsom, Miss. Helen Monypeny",female,62,88,74,71,79,82,78,Physics,1,1,75.75,Physics
+271,"Futrelle, Mr. Jacques Heath",male,66,22,63,69,78,74,88,English,1,4,72.5,Physics
+272,"Osen, Mr. Olaf Elon",male,63,88,87,58,51,94,64,Maths,4,1,65.25,Chemistry
+273,"Giglio, Mr. Victor",male,74,73,85,47,91,82,85,Chemistry,5,4,66.75,Zoology
+274,"Boulos, Mrs. Joseph (Sultana)",female,41,68,72,65,63,81,91,Biology,5,4,68.5,Biology
+275,"Nysten, Miss. Anna Sofia",female,46,100,87,88,83,70,83,Language,3,3,82.25,Maths
+276,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,70,62,86,83,73,77,80,English,2,5,79,Zoology
+277,"Burke, Mr. Jeremiah",male,50,77,66,85,97,92,100,Zoology,3,2,89.75,Zoology
+278,"Andrew, Mr. Edgardo Samuel",male,54,59,72,59,62,88,71,Maths,5,2,67,Biology
+279,"Nicholls, Mr. Joseph Charles",male,92,54,86,65,77,77,83,Physics,5,2,71,Biology
+280,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,70,62,83,73,60,93,90,Biology,3,5,74.75,Extracurricular
+281,"Ford, Miss. Robina Maggie ""Ruby""",female,66,70,84,53,91,82,95,Maths,4,2,69.75,Extracurricular
+282,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,67,66,68,45,58,83,82,Physics,2,3,57.75,Zoology
+283,"Byles, Rev. Thomas Roussel Davids",male,44,60,91,73,67,92,79,Zoology,3,1,76.25,Biology
+284,"Bateman, Rev. Robert James",male,42,89,96,70,70,73,72,Chemistry,1,4,70.75,Maths
+285,"Pears, Mrs. Thomas (Edith Wearne)",female,48,79,73,37,87,91,65,Maths,1,5,63,Sports
+286,"Meo, Mr. Alfonzo",male,99,76,91,81,53,98,95,Physics,5,1,78.25,Chemistry
+287,"van Billiard, Mr. Austin Blyler",male,76,87,88,97,71,97,66,Maths,5,1,90.5,Physics
+288,"Olsen, Mr. Ole Martin",male,93,87,93,67,58,81,99,Chemistry,2,5,68.25,Extracurricular
+289,"Williams, Mr. Charles Duane",male,86,94,99,88,81,88,72,English,3,4,86.25,Biology
+290,"Gilnagh, Miss. Katherine ""Katie""",female,53,100,62,77,75,96,97,Chemistry,3,3,81.25,Physics
+291,"Corn, Mr. Harry",male,86,90,69,76,70,74,87,Language,2,5,74,Maths
+292,"Smiljanic, Mr. Mile",male,43,77,91,86,83,92,97,Physics,4,3,86.75,Biology
+293,"Sage, Master. Thomas Henry",male,78,82,81,63,79,72,60,Biology,3,5,69.25,Zoology
+294,"Cribb, Mr. John Hatfield",male,46,98,74,65,90,80,64,Zoology,4,3,75,Biology
+295,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,47,82,100,78,63,86,99,Physics,3,5,76.25,Extracurricular
+296,"Bengtsson, Mr. John Viktor",male,99,76,81,67,81,87,86,Maths,2,2,75.5,Physics
+297,"Calic, Mr. Jovo",male,49,91,93,46,53,70,74,English,5,4,53.75,Sports
+298,"Panula, Master. Eino Viljami",male,100,70,81,71,90,72,96,Language,5,2,76,Sports
+299,"Goldsmith, Master. Frank John William ""Frankie""",male,60,72,91,40,92,90,67,Chemistry,2,4,65.5,Sports
+300,"Chibnall, Mrs. (Edith Martha Bowerman)",female,92,71,78,90,61,88,96,Physics,1,1,82.25,Sports
+301,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,63,98,66,81,92,82,86,Maths,4,1,84,Extracurricular
+302,"Baumann, Mr. John D",male,63,97,100,56,80,84,89,English,2,3,69,Maths
+303,"Ling, Mr. Lee",male,89,78,96,67,68,72,85,Chemistry,4,4,68.5,Extracurricular
+304,"Van der hoef, Mr. Wyckoff",male,74,91,64,80,74,91,71,Maths,1,4,81.25,Maths
+305,"Rice, Master. Arthur",male,84,92,93,74,65,87,97,Physics,5,2,75,Biology
+306,"Johnson, Miss. Eleanor Ileen",female,46,75,85,69,55,95,87,Chemistry,5,2,72,Zoology
+307,"Sivola, Mr. Antti Wilhelm",male,86,72,73,99,71,80,100,Maths,1,3,87.25,Extracurricular
+308,"Smith, Mr. James Clinch",male,50,90,76,51,67,75,97,Physics,3,4,61,Physics
+309,"Klasen, Mr. Klas Albin",male,48,84,87,53,57,98,71,Maths,4,5,65.25,Chemistry
+310,"Lefebre, Master. Henry Forbes",male,62,100,89,49,54,92,98,English,5,4,61,Chemistry
+311,"Isham, Miss. Ann Elizabeth",female,71,83,66,73,71,76,90,Language,2,3,73.25,Physics
+312,"Hale, Mr. Reginald",male,63,88,64,66,61,98,67,Maths,2,1,72.75,Maths
+313,"Leonard, Mr. Lionel",male,59,98,67,67,55,81,75,Physics,2,4,67.5,Physics
+314,"Sage, Miss. Constance Gladys",female,60,83,67,68,56,86,65,Chemistry,2,1,69.5,Extracurricular
+315,"Pernot, Mr. Rene",male,71,86,92,59,69,75,86,Physics,5,3,65.5,Chemistry
+316,"Asplund, Master. Clarence Gustaf Hugo",male,92,75,93,71,64,76,85,Maths,2,5,70.5,Maths
+317,"Becker, Master. Richard F",male,79,96,80,77,59,70,74,Language,3,3,70.75,Physics
+318,"Kink-Heilmann, Miss. Luise Gretchen",female,89,84,74,83,77,79,99,Language,3,5,80.5,Extracurricular
+319,"Rood, Mr. Hugh Roscoe",male,43,99,82,63,73,79,95,Language,4,1,69.5,Zoology
+320,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,99,88,84,56,66,73,77,English,1,5,62.75,Chemistry
+321,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,89,91,80,67,67,93,66,English,1,3,73.5,Sports
+322,"Bourke, Mr. John",male,92,100,67,75,68,71,68,Physics,1,2,72.25,Maths
+323,"Turcin, Mr. Stjepan",male,75,79,85,71,50,93,78,Chemistry,3,5,71.25,Physics
+324,"Pinsky, Mrs. (Rosa)",female,51,93,83,43,56,92,90,Physics,6,5,58.5,History
+325,"Carbines, Mr. William",male,52,73,100,41,79,93,91,Physics,5,1,63.5,Sports
+326,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,95,91,83,82,85,75,100,Maths,5,4,81,Biology
+327,"Navratil, Master. Michel M",male,55,76,82,61,71,76,64,Maths,1,5,67.25,Maths
+328,"Brown, Mrs. James Joseph (Margaret Tobin)",female,58,71,85,28,97,91,86,Language,4,1,61,Extracurricular
+329,"Lurette, Miss. Elise",female,95,99,92,82,63,90,100,Chemistry,6,1,79.25,Maths
+330,"Mernagh, Mr. Robert",male,50,94,68,41,63,79,71,English,5,2,56,Zoology
+331,"Olsen, Mr. Karl Siegwart Andreas",male,65,96,73,71,78,70,97,Physics,3,4,72.5,Maths
+332,"Madigan, Miss. Margaret ""Maggie""",female,44,99,68,47,73,73,87,Chemistry,5,4,60,Sports
+333,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,56,70,68,62,73,100,98,English,3,4,74.25,Physics
+334,"Vande Walle, Mr. Nestor Cyriel",male,77,98,80,90,97,76,93,Maths,5,2,88.25,History
+335,"Sage, Mr. Frederick",male,62,87,96,83,77,100,64,English,3,2,85.75,Biology
+336,"Johanson, Mr. Jakob Alfred",male,65,85,97,61,61,70,80,Maths,6,1,63.25,Maths
+337,"Youseff, Mr. Gerious",male,63,99,83,76,68,80,100,Maths,7,5,75,Sports
+338,"Cohen, Mr. Gurshon ""Gus""",male,81,96,61,49,75,73,90,Physics,3,3,61.5,Extracurricular
+339,"Strom, Miss. Telma Matilda",female,48,85,93,24,78,92,94,Chemistry,6,1,54.5,Sports
+340,"Backstrom, Mr. Karl Alfred",male,48,90,80,35,58,80,91,Maths,4,5,52,Extracurricular
+341,"Albimona, Mr. Nassef Cassem",male,56,95,98,58,50,74,90,Chemistry,3,5,60,Extracurricular
+342,"Carr, Miss. Helen ""Ellen""",female,58,76,69,61,94,85,66,Physics,2,2,75.25,Maths
+343,"Blank, Mr. Henry",male,85,70,72,69,57,83,83,Physics,6,5,69.5,Physics
+344,"Ali, Mr. Ahmed",male,80,90,100,67,95,98,87,Chemistry,2,2,81.75,Sports
+345,"Cameron, Miss. Clear Annie",female,59,98,90,79,72,76,82,Maths,3,4,76.5,Zoology
+346,"Perkin, Mr. John Henry",male,93,100,72,72,59,92,87,Biology,7,1,73.75,Extracurricular
+347,"Givard, Mr. Hans Kristensen",male,62,85,79,62,59,98,95,Biology,4,5,70.25,History
+348,"Kiernan, Mr. Philip",male,99,95,73,77,78,94,74,Biology,5,2,81.5,Sports
+349,"Newell, Miss. Madeleine",female,79,90,75,75,51,92,72,Biology,3,1,73.25,Chemistry
+350,"Honkanen, Miss. Eliina",female,53,77,64,87,56,75,99,Chemistry,1,4,76.25,Physics
+351,"Jacobsohn, Mr. Sidney Samuel",male,67,91,90,52,82,71,79,Physics,2,3,64.25,Extracurricular
+352,"Bazzani, Miss. Albina",female,66,85,98,66,58,73,83,Chemistry,3,4,65.75,History
+353,"Harris, Mr. Walter",male,53,80,88,63,70,95,65,Maths,3,1,72.75,Chemistry
+354,"Sunderland, Mr. Victor Francis",male,42,74,80,46,85,74,78,Biology,5,1,62.75,Extracurricular
+355,"Bracken, Mr. James H",male,89,80,95,59,85,75,89,Physics,4,4,69.5,Physics
+356,"Green, Mr. George Henry",male,76,96,84,61,99,73,78,Maths,5,4,73.5,History
+357,"Nenkoff, Mr. Christo",male,42,72,84,63,55,78,74,Biology,4,4,64.75,Chemistry
+358,"Hoyt, Mr. Frederick Maxfield",male,72,86,66,42,73,83,81,Physics,6,1,60,History
+359,"Berglund, Mr. Karl Ivar Sven",male,45,82,77,59,58,91,73,Language,7,2,66.75,Sports
+360,"Mellors, Mr. William John",male,74,77,73,80,68,98,61,English,2,3,81.5,Sports
+361,"Lovell, Mr. John Hall (""Henry"")",male,74,72,84,58,88,92,95,Language,4,1,74,Extracurricular
+362,"Fahlstrom, Mr. Arne Jonas",male,75,86,62,85,69,75,76,Physics,3,4,78.5,Physics
+363,"Lefebre, Miss. Mathilde",female,99,87,99,52,57,91,93,English,1,4,63,Chemistry
+364,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,63,85,82,27,99,86,67,Language,3,1,59.75,Maths
+365,"Larsson, Mr. Bengt Edvin",male,56,99,99,59,86,78,69,Chemistry,4,3,70.5,Maths
+366,"Sjostedt, Mr. Ernst Adolf",male,68,78,89,49,75,85,87,Maths,1,5,64.5,Extracurricular
+367,"Asplund, Miss. Lillian Gertrud",female,60,81,79,69,85,76,69,Chemistry,2,3,74.75,Sports
+368,"Leyson, Mr. Robert William Norman",male,80,80,88,61,84,78,66,Physics,6,5,71,Sports
+369,"Harknett, Miss. Alice Phoebe",female,91,75,92,44,67,97,63,Maths,4,4,63,Extracurricular
+370,"Hold, Mr. Stephen",male,75,74,92,73,82,76,94,English,4,2,76,Sports
+371,"Collyer, Miss. Marjorie ""Lottie""",female,62,93,74,84,91,73,62,Physics,7,2,83,Maths
+372,"Pengelly, Mr. Frederick William",male,63,93,62,45,70,89,86,English,7,2,62.25,Sports
+373,"Hunt, Mr. George Henry",male,82,88,63,74,79,91,73,Maths,3,2,79.5,Extracurricular
+374,"Zabour, Miss. Thamine",female,91,98,68,82,56,85,78,Zoology,1,5,76.25,Physics
+375,"Murphy, Miss. Katherine ""Kate""",female,62,92,74,59,74,93,86,Physics,4,1,71.25,Chemistry
+376,"Coleridge, Mr. Reginald Charles",male,78,75,71,46,75,82,63,Maths,6,2,62.25,Maths
+377,"Maenpaa, Mr. Matti Alexanteri",male,85,86,93,80,65,98,95,English,6,4,80.75,Physics
+378,"Attalah, Mr. Sleiman",male,42,90,91,85,95,82,75,Language,5,1,86.75,Physics
+379,"Minahan, Dr. William Edward",male,87,71,99,71,87,83,63,Chemistry,1,4,78,Chemistry
+380,"Lindahl, Miss. Agda Thorilda Viktoria",female,73,95,67,66,77,76,61,Physics,2,3,71.25,Zoology
+381,"Hamalainen, Mrs. William (Anna)",female,57,97,81,80,85,74,78,Maths,2,3,79.75,Biology
+382,"Beckwith, Mr. Richard Leonard",male,63,86,88,87,52,82,84,English,4,3,77,Maths
+383,"Carter, Rev. Ernest Courtenay",male,61,84,84,79,66,76,83,Chemistry,6,5,75,Zoology
+384,"Reed, Mr. James George",male,45,91,76,38,68,80,83,Maths,7,2,56,Zoology
+385,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,90,70,96,38,50,79,66,Physics,2,3,51.25,Biology
+386,"Stead, Mr. William Thomas",male,71,91,66,67,97,98,78,Chemistry,4,3,82.25,Biology
+387,"Lobb, Mr. William Arthur",male,79,82,94,64,54,92,94,Maths,6,3,68.5,Extracurricular
+388,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,79,79,98,57,57,78,84,Physics,2,3,62.25,Extracurricular
+389,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,62,71,93,62,69,99,95,Maths,1,3,73,Zoology
+390,"Thorne, Mrs. Gertrude Maybelle",female,76,100,100,73,98,76,95,English,5,2,80,Biology
+391,"Cherry, Miss. Gladys",female,99,93,90,73,53,96,64,Language,5,1,73.75,Maths
+392,"Ward, Miss. Anna",female,76,87,96,77,79,74,62,Maths,3,5,76.75,Sports
+393,"Parrish, Mrs. (Lutie Davis)",female,50,70,91,76,76,80,60,Physics,2,1,77,Chemistry
+394,"Smith, Mr. Thomas",male,64,88,85,57,85,80,76,Chemistry,6,3,69.75,Physics
+395,"Asplund, Master. Edvin Rojj Felix",male,44,78,70,65,52,84,94,Physics,6,5,66.5,Extracurricular
+396,"Taussig, Mr. Emil",male,69,75,64,48,58,91,63,Maths,4,5,61.25,Biology
+397,"Harrison, Mr. William",male,74,83,78,50,79,88,87,Language,2,5,66.75,Physics
+398,"Henry, Miss. Delia",female,44,71,89,85,52,84,83,Language,2,3,76.5,Maths
+399,"Reeves, Mr. David",male,42,81,60,74,58,84,72,Language,7,4,72.5,Biology
+400,"Panula, Mr. Ernesti Arvid",male,67,92,88,60,68,88,78,English,7,4,69,Zoology
+401,"Persson, Mr. Ernst Ulrik",male,85,92,67,59,54,92,72,English,7,3,66,Biology
+402,"Graham, Mrs. William Thompson (Edith Junkins)",female,72,98,99,53,98,77,92,Physics,5,1,70.25,Extracurricular
+403,"Bissette, Miss. Amelia",female,56,94,97,49,81,88,60,Chemistry,4,3,66.75,Physics
+404,"Cairns, Mr. Alexander",male,86,75,96,88,73,74,99,Physics,2,5,80.75,Sports
+405,"Tornquist, Mr. William Henry",male,41,77,60,54,71,90,78,Physics,3,1,67.25,Sports
+406,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,50,94,68,63,96,74,88,Maths,3,2,74,Sports
+407,"Natsch, Mr. Charles H",male,60,78,77,65,95,75,85,Maths,4,1,75,Sports
+408,"Healy, Miss. Hanora ""Nora""",female,61,74,70,82,55,71,92,Language,3,1,72.5,Extracurricular
+409,"Andrews, Miss. Kornelia Theodosia",female,67,83,93,52,56,99,61,Chemistry,7,3,64.75,Maths
+410,"Lindblom, Miss. Augusta Charlotta",female,56,88,92,87,83,98,83,English,7,2,88.75,Extracurricular
+411,"Parkes, Mr. Francis ""Frank""",male,71,73,88,70,79,94,81,Physics,3,4,78.25,Maths
+412,"Rice, Master. Eric",male,50,99,87,84,74,76,91,Chemistry,4,4,79.5,Biology
+413,"Abbott, Mrs. Stanton (Rosa Hunt)",female,88,73,67,71,56,96,93,English,2,1,73.5,Zoology
+414,"Duane, Mr. Frank",male,54,92,81,63,57,95,80,Maths,2,4,69.5,Extracurricular
+415,"Olsson, Mr. Nils Johan Goransson",male,60,89,84,51,51,79,89,English,6,4,58,Physics
+416,"de Pelsmaeker, Mr. Alfons",male,90,92,63,84,66,97,71,Maths,7,1,82.75,Chemistry
+417,"Dorking, Mr. Edward Arthur",male,77,95,87,71,82,95,91,Maths,1,4,79.75,Chemistry
+418,"Smith, Mr. Richard William",male,48,76,78,74,82,87,68,Physics,5,4,79.25,Physics
+419,"Stankovic, Mr. Ivan",male,71,70,91,68,53,87,74,Chemistry,5,4,69,Maths
+420,"de Mulder, Mr. Theodore",male,61,81,96,57,69,92,90,Maths,6,4,68.75,Physics
+421,"Naidenoff, Mr. Penko",male,82,81,64,82,51,95,89,Chemistry,3,1,77.5,Extracurricular
+422,"Hosono, Mr. Masabumi",male,72,99,87,57,87,91,90,Physics,5,3,73,Chemistry
+423,"Connolly, Miss. Kate",female,61,90,86,47,73,91,73,Physics,1,5,64.5,Maths
+424,"Barber, Miss. Ellen ""Nellie""",female,43,98,78,59,83,70,71,Chemistry,4,5,67.75,Physics
+425,"Bishop, Mrs. Dickinson H (Helen Walton)",female,52,90,100,41,82,79,69,Maths,3,4,60.75,Extracurricular
+426,"Levy, Mr. Rene Jacques",male,95,99,100,62,84,75,60,Biology,6,2,70.75,Zoology
+427,"Haas, Miss. Aloisia",female,88,79,75,86,77,87,60,Biology,1,3,84,Chemistry
+428,"Mineff, Mr. Ivan",male,97,71,63,69,52,79,60,Biology,6,1,67.25,Sports
+429,"Lewy, Mr. Ervin G",male,84,82,86,65,55,81,69,Biology,7,4,66.5,Maths
+430,"Hanna, Mr. Mansour",male,86,72,76,68,65,73,83,Chemistry,2,4,68.5,Physics
+431,"Allison, Miss. Helen Loraine",female,77,89,62,64,81,90,93,Physics,5,3,74.75,History
+432,"Saalfeld, Mr. Adolphe",male,83,83,70,61,98,79,89,Chemistry,1,2,74.75,Sports
+433,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,40,84,84,61,85,72,79,Maths,3,1,69.75,Biology
+434,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,82,78,78,47,83,98,80,Biology,6,2,68.75,Maths
+435,"McCoy, Mr. Bernard",male,97,95,88,73,79,83,78,Physics,4,4,77,Extracurricular
+436,"Johnson, Mr. William Cahoone Jr",male,97,97,75,50,90,90,95,Maths,6,3,70,Maths
+437,"Keane, Miss. Nora A",female,43,96,77,75,54,87,62,Biology,3,2,72.75,Zoology
+438,"Williams, Mr. Howard Hugh ""Harry""",male,71,92,74,75,91,75,83,Physics,1,4,79,Maths
+439,"Allison, Master. Hudson Trevor",male,40,85,97,70,71,85,83,Language,6,3,74,Sports
+440,"Fleming, Miss. Margaret",female,86,83,62,89,82,76,85,English,3,4,84,Physics
+441,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,75,93,65,67,91,74,97,Language,4,3,74.75,History
+442,"Abelson, Mr. Samuel",male,73,89,84,78,51,78,100,Physics,7,1,71.25,Biology
+443,"Francatelli, Miss. Laura Mabel",female,68,88,63,59,78,87,79,English,3,2,70.75,Maths
+444,"Hays, Miss. Margaret Bechstein",female,47,91,76,73,50,72,86,Language,4,5,67,Sports
+445,"Ryerson, Miss. Emily Borie",female,89,91,95,79,95,84,76,Chemistry,6,5,84.25,Extracurricular
+446,"Lahtinen, Mrs. William (Anna Sylfven)",female,43,77,76,67,83,83,74,Maths,7,3,75,Sports
+447,"Hendekovic, Mr. Ignjac",male,90,87,86,69,54,74,98,Chemistry,1,3,66.5,Extracurricular
+448,"Hart, Mr. Benjamin",male,43,72,75,86,84,88,81,Physics,7,3,86,Extracurricular
+449,"Nilsson, Miss. Helmina Josefina",female,71,81,81,47,71,89,83,Maths,1,1,63.5,Maths
+450,"Kantor, Mrs. Sinai (Miriam Sternin)",female,50,90,74,81,55,70,82,English,3,1,71.75,Physics
+451,"Moraweck, Dr. Ernest",male,73,77,93,64,67,73,89,Physics,4,4,67,Sports
+452,"Wick, Miss. Mary Natalie",female,85,83,64,100,86,82,65,English,7,5,92,Zoology
+453,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,74,76,69,65,100,94,66,Maths,2,2,81,Extracurricular
+454,"Dennis, Mr. Samuel",male,59,82,68,65,89,71,100,Maths,1,4,72.5,History
+455,"Danoff, Mr. Yoto",male,65,73,93,53,75,83,80,Biology,6,3,66,Sports
+456,"Slayter, Miss. Hilda Mary",female,72,99,68,37,53,86,96,Physics,3,1,53.25,Chemistry
+457,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,70,82,75,79,56,84,64,Chemistry,7,2,74.5,Physics
+458,"Sage, Mr. George John Jr",male,84,97,93,53,100,92,95,Physics,7,3,74.5,Extracurricular
+459,"Young, Miss. Marie Grice",female,100,74,89,100,84,88,97,Maths,6,5,93,History
+460,"Nysveen, Mr. Johan Hansen",male,82,83,88,72,92,70,91,English,3,4,76.5,Chemistry
+461,"Ball, Mrs. (Ada E Hall)",female,72,78,80,53,54,87,86,Language,3,3,61.75,Extracurricular
+462,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,48,87,64,54,84,78,81,Maths,1,3,67.5,Physics
+463,"Hippach, Miss. Jean Gertrude",female,48,92,81,71,52,98,72,Physics,4,4,73,History
+464,"McCoy, Miss. Agnes",female,45,90,79,77,88,85,60,Chemistry,4,2,81.75,Chemistry
+465,"Partner, Mr. Austen",male,44,74,69,75,57,73,81,Maths,2,4,70,History
+466,"Graham, Mr. George Edward",male,72,83,60,84,59,79,78,Language,7,3,76.5,Sports
+467,"Vander Planke, Mr. Leo Edmondus",male,41,81,84,26,91,96,79,Physics,6,1,59.75,Sports
+468,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,63,86,96,72,73,92,86,Chemistry,2,4,77.25,Extracurricular
+469,"Denkoff, Mr. Mitto",male,73,81,65,77,50,84,93,Maths,2,4,72,Physics
+470,"Pears, Mr. Thomas Clinton",male,40,98,70,91,91,93,66,Chemistry,4,1,91.5,Chemistry
+471,"Burns, Miss. Elizabeth Margaret",female,74,82,92,83,91,87,78,Physics,3,3,86,Maths
+472,"Dahl, Mr. Karl Edwart",male,52,94,81,63,60,73,61,English,7,2,64.75,Maths
+473,"Blackwell, Mr. Stephen Weart",male,75,93,86,68,55,91,70,Physics,7,2,70.5,Extracurricular
+474,"Navratil, Master. Edmond Roger",male,57,78,63,59,78,99,72,Chemistry,2,5,73.75,Sports
+475,"Fortune, Miss. Alice Elizabeth",female,90,81,86,90,98,81,75,Chemistry,1,2,89.75,Sports
+476,"Collander, Mr. Erik Gustaf",male,61,78,91,71,55,83,82,Language,5,1,70,Extracurricular
+477,"Sedgwick, Mr. Charles Frederick Waddington",male,86,90,77,76,55,85,79,Maths,6,2,73,Sports
+478,"Fox, Mr. Stanley Hubert",male,40,71,96,80,88,82,78,English,5,2,82.5,Maths
+479,"Brown, Miss. Amelia ""Mildred""",female,83,79,81,55,73,75,66,English,1,5,64.5,Sports
+480,"Smith, Miss. Marion Elsie",female,74,79,68,76,65,70,69,Physics,7,3,71.75,Extracurricular
+481,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,100,98,78,73,80,78,71,Chemistry,4,3,76,Physics
+482,"Coutts, Master. William Loch ""William""",male,60,91,66,52,83,88,97,Maths,6,2,68.75,Chemistry
+483,"Dimic, Mr. Jovan",male,50,86,67,68,64,74,85,Chemistry,4,5,68.5,Maths
+484,"Odahl, Mr. Nils Martin",male,45,82,77,59,64,99,97,Physics,4,2,70.25,Physics
+485,"Williams-Lambert, Mr. Fletcher Fellows",male,98,85,90,49,86,73,70,Maths,3,4,64.25,Physics
+486,"Elias, Mr. Tannous",male,42,82,76,70,83,94,70,English,3,4,79.25,Chemistry
+487,"Arnold-Franchi, Mr. Josef",male,54,71,86,61,95,87,90,Physics,6,5,76,Zoology
+488,"Yousif, Mr. Wazli",male,72,93,89,60,89,71,73,English,6,5,70,Biology
+489,"Vanden Steen, Mr. Leo Peter",male,95,87,89,64,64,71,62,Maths,4,2,65.75,Maths
+490,"Bowerman, Miss. Elsie Edith",female,89,77,91,79,52,73,89,Maths,7,5,70.75,Zoology
+491,"Funk, Miss. Annie Clemmer",female,68,94,62,65,100,93,89,Biology,2,4,80.75,Zoology
+492,"McGovern, Miss. Mary",female,55,99,64,64,81,95,80,Physics,6,2,76,Biology
+493,"Mockler, Miss. Helen Mary ""Ellie""",female,93,76,97,83,81,73,68,Chemistry,7,4,80,Biology
+494,"Skoog, Mr. Wilhelm",male,95,83,92,81,81,92,67,Physics,3,1,83.75,Extracurricular
+495,"del Carlo, Mr. Sebastiano",male,54,92,72,54,50,75,71,Maths,1,3,58.25,Extracurricular
+496,"Barbara, Mrs. (Catherine David)",female,90,85,68,68,98,81,67,English,5,2,78.75,Zoology
+497,"Asim, Mr. Adola",male,71,90,73,54,83,79,93,Language,3,3,67.5,Biology
+498,"O'Brien, Mr. Thomas",male,46,92,73,59,84,80,79,Maths,1,4,70.5,Maths
+499,"Adahl, Mr. Mauritz Nils Martin",male,48,96,62,66,88,80,96,Physics,7,3,75,Sports
+500,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,84,81,93,76,80,75,93,Chemistry,5,4,76.75,Chemistry
+501,"Moussa, Mrs. (Mantoura Boulos)",female,82,100,93,74,56,81,77,Maths,2,2,71.25,Physics
+502,"Jermyn, Miss. Annie",female,79,70,92,94,88,89,63,Language,5,1,91.25,Extracurricular
+503,"Aubart, Mme. Leontine Pauline",female,47,87,61,63,86,87,78,Physics,3,5,74.75,Biology
+504,"Harder, Mr. George Achilles",male,47,89,97,95,56,82,95,Chemistry,4,5,82,Physics
+505,"Wiklund, Mr. Jakob Alfred",male,64,90,95,40,94,70,63,Maths,5,1,61,Maths
+506,"Beavan, Mr. William Thomas",male,84,81,97,82,95,72,90,Chemistry,6,4,82.75,Biology
+507,"Ringhini, Mr. Sante",male,87,85,84,68,73,88,76,Physics,1,4,74.25,Zoology
+508,"Palsson, Miss. Stina Viola",female,76,88,92,55,50,96,77,English,3,2,64,Biology
+509,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,89,81,89,79,71,74,97,Physics,4,1,75.75,Extracurricular
+510,"Landergren, Miss. Aurora Adelia",female,80,84,71,86,87,92,95,Chemistry,4,4,87.75,Physics
+511,"Widener, Mr. Harry Elkins",male,85,75,85,76,81,87,100,Chemistry,3,2,80,Sports
+512,"Betros, Mr. Tannous",male,91,74,80,64,66,74,95,Language,5,5,67,Sports
+513,"Gustafsson, Mr. Karl Gideon",male,93,72,80,62,54,94,93,Maths,5,2,68,Sports
+514,"Bidois, Miss. Rosalie",female,61,82,73,54,60,82,86,English,5,5,62.5,Sports
+515,"Nakid, Miss. Maria (""Mary"")",female,80,73,89,77,85,71,62,English,5,2,77.5,Extracurricular
+516,"Tikkanen, Mr. Juho",male,99,95,99,76,86,80,72,Physics,7,1,79.5,Maths
+517,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,77,85,76,74,98,85,93,English,7,3,82.75,Extracurricular
+518,"Plotcharsky, Mr. Vasil",male,86,94,82,66,92,73,80,Physics,2,4,74.25,Maths
+519,"Davies, Mr. Charles Henry",male,54,94,91,66,65,96,64,Chemistry,2,3,73.25,Biology
+520,"Goodwin, Master. Sidney Leonard",male,56,98,93,67,56,72,60,English,2,1,65.5,Zoology
+521,"Buss, Miss. Kate",female,46,94,62,71,92,78,95,Maths,5,3,78,Extracurricular
+522,"Sadlier, Mr. Matthew",male,85,80,98,91,76,90,74,English,7,2,87,Physics
+523,"Lehmann, Miss. Bertha",female,46,82,95,69,76,72,92,Maths,7,2,71.5,Chemistry
+524,"Carter, Mr. William Ernest",male,64,88,88,54,69,81,81,Maths,5,3,64.5,Chemistry
+525,"Jansson, Mr. Carl Olof",male,47,96,94,53,90,95,97,Physics,5,4,72.75,Physics
+526,"Gustafsson, Mr. Johan Birger",male,80,74,100,68,88,70,92,Chemistry,1,3,73.5,Maths
+527,"Newell, Miss. Marjorie",female,67,77,62,56,95,71,65,Maths,5,5,69.5,Physics
+528,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,97,71,75,36,60,85,92,Chemistry,7,1,54.25,Extracurricular
+529,"Johansson, Mr. Erik",male,73,77,67,29,50,74,66,Physics,3,2,45.5,Chemistry
+530,"Olsson, Miss. Elina",female,75,97,89,62,66,80,95,Physics,3,5,67.5,Maths
+531,"McKane, Mr. Peter David",male,72,90,73,68,86,85,67,Chemistry,7,5,76.75,Physics
+532,"Pain, Dr. Alfred",male,59,72,92,47,56,72,79,Maths,3,3,55.5,Extracurricular
+533,"Trout, Mrs. William H (Jessie L)",female,47,91,65,62,54,91,99,Biology,7,3,67.25,Zoology
+534,"Niskanen, Mr. Juha",male,84,81,74,79,55,79,62,Biology,3,1,73,Chemistry
+535,"Adams, Mr. John",male,85,78,66,73,88,83,96,Biology,7,5,79.25,Sports
+536,"Jussila, Miss. Mari Aina",female,99,82,97,66,100,93,62,Biology,5,2,81.25,Maths
+537,"Hakkarainen, Mr. Pekka Pietari",male,95,86,99,51,76,72,91,Chemistry,7,2,62.5,Physics
+538,"Oreskovic, Miss. Marija",female,43,71,87,51,85,79,86,Physics,3,2,66.5,History
+539,"Gale, Mr. Shadrach",male,70,88,90,85,64,81,74,Physics,3,4,78.75,Sports
+540,"Widegren, Mr. Carl/Charles Peter",male,77,72,100,97,74,93,85,English,7,5,90.25,Biology
+541,"Richards, Master. William Rowe",male,47,92,99,75,82,70,95,Maths,6,3,75.5,Maths
+542,"Birkeland, Mr. Hans Martin Monsen",male,42,86,67,79,93,96,67,Chemistry,5,3,86.75,Extracurricular
+543,"Lefebre, Miss. Ida",female,92,91,77,81,92,89,95,Biology,5,1,85.75,Maths
+544,"Sdycoff, Mr. Todor",male,52,90,68,82,55,82,65,Language,1,2,75.25,Zoology
+545,"Hart, Mr. Henry",male,42,94,68,64,57,76,60,English,7,3,65.25,Maths
+546,"Minahan, Miss. Daisy E",female,55,91,86,78,88,70,73,Zoology,7,5,78.5,Sports
+547,"Cunningham, Mr. Alfred Fleming",male,45,79,74,92,94,73,98,Maths,5,2,87.75,Physics
+548,"Sundman, Mr. Johan Julian",male,47,82,78,72,51,88,94,Physics,7,2,70.75,History
+549,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,44,93,97,62,62,71,71,Biology,6,4,64.25,Biology
+550,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,62,95,96,79,93,91,75,Maths,7,4,85.5,Maths
+551,"Silven, Miss. Lyyli Karoliina",female,44,100,94,79,86,70,66,Physics,3,4,78.5,Sports
+552,"Matthews, Mr. William John",male,57,83,70,87,86,77,84,Zoology,1,5,84.25,Extracurricular
+553,"Van Impe, Miss. Catharina",female,66,100,74,40,50,75,68,Chemistry,3,5,51.25,Sports
+554,"Gheorgheff, Mr. Stanio",male,61,93,85,77,50,77,69,Maths,3,3,70.25,Extracurricular
+555,"Charters, Mr. David",male,57,72,82,53,53,81,90,Physics,7,1,60,Extracurricular
+556,"Zimmerman, Mr. Leo",male,90,75,64,32,76,70,72,Maths,5,5,52.5,Maths
+557,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,89,89,98,55,63,74,67,Chemistry,4,6,61.75,Physics
+558,"Rosblom, Mr. Viktor Richard",male,40,92,71,61,83,71,99,English,4,2,69,Sports
+559,"Wiseman, Mr. Phillippe",male,75,100,91,53,75,84,85,Chemistry,5,6,66.25,Zoology
+560,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,88,89,78,73,86,76,83,Language,4,4,77,Extracurricular
+561,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,73,92,82,74,66,87,60,Physics,5,1,75.25,History
+562,"Flynn, Mr. James",male,41,79,69,63,60,79,95,Biology,7,6,66.25,Sports
+563,"Pickard, Mr. Berk (Berk Trembisky)",male,72,81,73,96,78,84,96,Zoology,4,6,88.5,Chemistry
+564,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,81,72,70,63,69,89,90,Physics,6,2,71,Physics
+565,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,48,85,74,48,96,94,92,Maths,2,1,71.5,Extracurricular
+566,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,45,83,76,48,75,91,75,English,1,1,65.5,History
+567,"Kallio, Mr. Nikolai Erland",male,91,82,69,92,82,84,96,Language,2,3,87.5,Chemistry
+568,"Silvey, Mr. William Baird",male,80,83,78,61,96,73,61,Chemistry,4,4,72.75,Extracurricular
+569,"Carter, Miss. Lucile Polk",female,56,99,84,63,75,74,100,Physics,1,4,68.75,Physics
+570,"Ford, Miss. Doolina Margaret ""Daisy""",female,73,96,85,68,64,77,77,Maths,7,6,69.25,History
+571,"Richards, Mrs. Sidney (Emily Hocking)",female,93,73,84,71,86,84,69,English,7,5,78,Chemistry
+572,"Fortune, Mr. Mark",male,76,89,67,91,69,99,96,Chemistry,3,6,87.5,History
+573,"Kvillner, Mr. Johan Henrik Johannesson",male,96,85,87,53,59,88,88,Maths,1,4,63.25,Sports
+574,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,68,76,79,50,88,70,67,Physics,1,6,64.5,Sports
+575,"Hampe, Mr. Leon",male,66,95,72,74,69,86,92,Chemistry,6,3,75.75,Extracurricular
+576,"Petterson, Mr. Johan Emil",male,87,73,64,40,87,94,98,Maths,7,2,65.25,Physics
+577,"Reynaldo, Ms. Encarnacion",female,72,83,98,61,75,95,87,Physics,5,1,73,Chemistry
+578,"Johannesen-Bratthammer, Mr. Bernt",male,83,80,73,81,100,80,94,Maths,1,3,85.5,Maths
+579,"Dodge, Master. Washington",male,45,83,86,48,50,86,67,English,1,4,58,Maths
+580,"Mellinger, Miss. Madeleine Violet",female,94,85,70,53,51,75,62,Language,4,1,58,Extracurricular
+581,"Seward, Mr. Frederic Kimber",male,92,70,64,81,55,87,94,Maths,6,1,76,Sports
+582,"Baclini, Miss. Marie Catherine",female,44,98,67,77,76,83,65,Physics,1,1,78.25,Sports
+583,"Peuchen, Major. Arthur Godfrey",male,66,92,60,63,96,72,73,Chemistry,7,6,73.5,Extracurricular
+584,"West, Mr. Edwy Arthur",male,47,70,97,73,62,92,87,Physics,3,5,75,Sports
+585,"Hagland, Mr. Ingvald Olai Olsen",male,73,88,73,69,53,70,87,Maths,7,3,65.25,Maths
+586,"Foreman, Mr. Benjamin Laventall",male,57,77,88,65,51,88,65,Language,6,4,67.25,Sports
+587,"Goldenberg, Mr. Samuel L",male,48,89,65,55,79,73,96,Language,1,2,65.5,Extracurricular
+588,"Peduzzi, Mr. Joseph",male,70,85,60,44,96,99,100,Language,4,4,70.75,Physics
+589,"Jalsevac, Mr. Ivan",male,93,94,91,54,84,83,71,English,6,6,68.75,Chemistry
+590,"Millet, Mr. Francis Davis",male,95,97,74,48,73,83,61,English,6,3,63,Maths
+591,"Kenyon, Mrs. Frederick R (Marion)",female,58,79,88,58,90,100,96,Physics,6,1,76.5,Physics
+592,"Toomey, Miss. Ellen",female,52,81,71,71,78,86,81,Chemistry,6,2,76.5,Physics
+593,"O'Connor, Mr. Maurice",male,80,79,67,68,82,73,66,Physics,7,5,72.75,Chemistry
+594,"Anderson, Mr. Harry",male,78,90,78,74,78,99,72,Physics,4,5,81.25,Zoology
+595,"Morley, Mr. William",male,66,87,71,92,58,84,76,Maths,1,5,81.5,Biology
+596,"Gee, Mr. Arthur H",male,90,92,67,56,85,90,87,Maths,4,3,71.75,Maths
+597,"Milling, Mr. Jacob Christian",male,78,90,81,30,52,93,94,Language,4,3,51.25,Zoology
+598,"Maisner, Mr. Simon",male,60,96,94,53,63,75,82,Chemistry,3,6,61,Zoology
+599,"Goncalves, Mr. Manuel Estanslas",male,92,72,80,69,92,73,99,English,4,2,75.75,Biology
+600,"Campbell, Mr. William",male,48,81,65,65,69,91,74,Physics,6,1,72.5,Biology
+601,"Smart, Mr. John Montgomery",male,43,72,61,54,65,72,73,Chemistry,4,1,61.25,Extracurricular
+602,"Scanlan, Mr. James",male,51,75,83,29,73,85,70,English,1,6,54,Extracurricular
+603,"Baclini, Miss. Helene Barbara",female,84,91,72,76,95,90,98,Maths,3,1,84.25,Zoology
+604,"Keefe, Mr. Arthur",male,64,77,63,60,65,84,85,English,6,4,67.25,Biology
+605,"Cacic, Mr. Luka",male,60,80,81,84,75,70,96,Maths,3,3,78.25,Maths
+606,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,63,88,75,75,85,79,63,Maths,1,6,78.5,Sports
+607,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,71,80,72,85,84,73,85,Physics,4,5,81.75,Chemistry
+608,"Strandberg, Miss. Ida Sofia",female,88,95,78,40,57,85,74,Chemistry,1,6,55.5,Physics
+609,"Clifford, Mr. George Quincy",male,57,81,95,61,61,78,86,Maths,3,3,65.25,Extracurricular
+610,"Renouf, Mr. Peter Henry",male,79,70,97,58,80,85,88,Chemistry,4,1,70.25,Biology
+611,"Braund, Mr. Lewis Richard",male,41,78,95,69,88,90,60,Physics,5,6,79,Physics
+612,"Karlsson, Mr. Nils August",male,73,76,60,58,85,72,60,Physics,5,5,68.25,Maths
+613,"Hirvonen, Miss. Hildur E",female,90,99,89,94,76,75,64,Chemistry,2,6,84.75,Biology
+614,"Goodwin, Master. Harold Victor",male,89,70,96,65,92,83,91,Maths,6,1,76.25,Zoology
+615,"Frost, Mr. Anthony Wood ""Archie""",male,87,73,81,82,92,74,98,Biology,2,4,82.5,Biology
+616,"Rouse, Mr. Richard Henry",male,88,87,98,60,74,85,86,Biology,2,3,69.75,Extracurricular
+617,"Turkula, Mrs. (Hedwig)",female,52,88,87,37,51,98,88,Biology,1,6,55.75,Physics
+618,"Bishop, Mr. Dickinson H",male,58,90,61,88,79,100,62,Biology,6,3,88.75,Sports
+619,"Lefebre, Miss. Jeannie",female,60,70,63,95,63,87,85,Chemistry,6,2,85,Sports
+620,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,72,73,82,65,96,86,87,Physics,4,6,78,Sports
+621,"Kent, Mr. Edward Austin",male,89,70,91,35,85,93,62,Chemistry,3,4,62,Sports
+622,"Somerton, Mr. Francis William",male,86,96,88,62,87,74,74,Maths,1,5,71.25,Extracurricular
+623,"Coutts, Master. Eden Leslie ""Neville""",male,48,92,70,58,88,92,66,Biology,1,6,74,Maths
+624,"Hagland, Mr. Konrad Mathias Reiersen",male,43,95,91,100,59,70,97,Physics,1,4,82.25,Extracurricular
+625,"Windelov, Mr. Einar",male,77,82,83,61,87,85,93,Maths,7,1,73.5,Maths
+626,"Molson, Mr. Harry Markland",male,43,76,71,100,77,81,71,Biology,6,4,89.5,Biology
+627,"Artagaveytia, Mr. Ramon",male,75,99,78,69,92,79,79,Physics,3,5,77.25,Zoology
+628,"Stanley, Mr. Edward Roland",male,50,81,75,61,55,71,85,Language,5,3,62,Extracurricular
+629,"Yousseff, Mr. Gerious",male,43,89,85,49,82,72,77,English,7,2,63,Physics
+630,"Eustis, Miss. Elizabeth Mussey",female,83,86,100,44,80,73,86,Language,6,4,60.25,Chemistry
+631,"Shellard, Mr. Frederick William",male,70,89,76,67,53,94,100,Physics,6,6,70.25,Chemistry
+632,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,73,89,62,79,95,71,88,English,4,5,81,Physics
+633,"Svensson, Mr. Olof",male,94,83,87,66,97,96,61,Language,4,3,81.25,Maths
+634,"Calic, Mr. Petar",male,63,80,69,75,75,76,67,Chemistry,4,4,75.25,Physics
+635,"Canavan, Miss. Mary",female,85,75,72,84,70,82,63,Maths,3,1,80,Extracurricular
+636,"O'Sullivan, Miss. Bridget Mary",female,43,92,61,71,70,72,75,Chemistry,7,5,71,Chemistry
+637,"Laitinen, Miss. Kristina Sofia",female,46,72,83,67,75,99,78,Physics,5,1,77,Maths
+638,"Maioni, Miss. Roberta",female,95,73,81,80,100,79,79,Maths,2,4,84.75,Physics
+639,"Penasco y Castellana, Mr. Victor de Satode",male,41,72,73,86,100,75,65,English,7,5,86.75,Extracurricular
+640,"Quick, Mrs. Frederick Charles (Jane Richards)",female,76,89,61,76,75,88,72,Physics,7,1,78.75,Zoology
+641,"Bradley, Mr. George (""George Arthur Brayton"")",male,50,87,82,41,57,75,74,English,5,4,53.5,Chemistry
+642,"Olsen, Mr. Henry Margido",male,61,72,82,74,50,100,62,Maths,2,5,74.5,Sports
+643,"Lang, Mr. Fang",male,47,89,66,72,74,98,62,Zoology,2,6,79,Maths
+644,"Daly, Mr. Eugene Patrick",male,52,86,89,74,53,85,81,Physics,7,1,71.5,Physics
+645,"Webber, Mr. James",male,70,87,90,70,94,87,71,Maths,2,6,80.25,History
+646,"McGough, Mr. James Robert",male,99,98,75,65,64,76,65,English,4,3,67.5,Sports
+647,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,72,60,59,95,89,93,Language,6,3,75.5,Biology
+648,"Coleff, Mr. Satio",male,82,82,75,64,74,76,68,Chemistry,4,5,69.5,Maths
+649,"Walker, Mr. William Anderson",male,51,93,65,50,70,82,62,Physics,2,2,63,Extracurricular
+650,"Lemore, Mrs. (Amelia Milley)",female,60,94,61,69,100,97,88,Maths,4,2,83.75,Maths
+651,"Ryan, Mr. Patrick",male,43,81,84,51,90,86,67,English,4,6,69.5,Zoology
+652,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,69,82,65,68,81,96,100,Chemistry,6,4,78.25,Maths
+653,"Pavlovic, Mr. Stefo",male,63,90,97,85,63,92,85,Maths,1,2,81.25,Sports
+654,"Perreault, Miss. Anne",female,64,71,70,65,97,74,86,Physics,3,1,75.25,Physics
+655,"Vovk, Mr. Janko",male,69,94,62,73,65,90,78,Chemistry,5,5,75.25,History
+656,"Lahoud, Mr. Sarkis",male,86,86,66,62,79,74,78,Maths,1,3,69.25,Biology
+657,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,84,97,68,77,70,86,74,Physics,2,3,77.5,Maths
+658,"Kassem, Mr. Fared",male,79,85,74,69,60,78,88,Maths,4,1,69,Sports
+659,"Farrell, Mr. James",male,41,96,67,43,97,91,79,English,5,4,68.5,Extracurricular
+660,"Ridsdale, Miss. Lucy",female,43,74,61,90,81,87,65,Language,2,2,87,Sports
+661,"Farthing, Mr. John",male,62,82,77,74,74,88,80,Maths,1,4,77.5,Extracurricular
+662,"Salonen, Mr. Johan Werner",male,45,73,85,73,63,82,69,Physics,5,2,72.75,Extracurricular
+663,"Hocking, Mr. Richard George",male,63,100,85,55,75,95,74,Chemistry,7,4,70,Maths
+664,"Quick, Miss. Phyllis May",female,71,88,96,65,76,95,90,Physics,6,3,75.25,Physics
+665,"Toufik, Mr. Nakli",male,43,72,63,80,75,98,85,Maths,2,2,83.25,Sports
+666,"Elias, Mr. Joseph Jr",male,72,70,87,50,78,90,93,Language,5,1,67,Zoology
+667,"Peter, Mrs. Catherine (Catherine Rizk)",female,65,77,83,63,89,89,61,Language,6,5,76,Extracurricular
+668,"Cacic, Miss. Marija",female,79,70,94,77,76,91,84,Language,6,4,80.25,History
+669,"Hart, Miss. Eva Miriam",female,68,99,86,73,88,73,76,English,3,5,76.75,Sports
+670,"Butt, Major. Archibald Willingham",male,97,82,86,81,86,77,73,English,4,6,81.25,Chemistry
+671,"LeRoy, Miss. Bertha",female,75,88,79,66,92,89,75,Physics,7,5,78.25,Physics
+672,"Risien, Mr. Samuel Beard",male,95,73,86,52,63,88,73,Chemistry,5,1,63.75,Extracurricular
+673,"Frolicher, Miss. Hedwig Margaritha",female,57,92,68,69,69,89,96,Physics,7,4,74,History
+674,"Crosby, Miss. Harriet R",female,62,99,69,65,58,74,65,Physics,1,2,65.5,Chemistry
+675,"Andersson, Miss. Ingeborg Constanzia",female,47,87,68,69,66,79,63,Maths,2,3,70.75,Extracurricular
+676,"Andersson, Miss. Sigrid Elisabeth",female,51,93,75,50,69,86,94,Maths,5,1,63.75,Physics
+677,"Beane, Mr. Edward",male,70,70,71,73,61,83,86,Language,3,6,72.5,History
+678,"Douglas, Mr. Walter Donald",male,77,75,66,70,51,91,73,Chemistry,2,3,70.5,Chemistry
+679,"Nicholson, Mr. Arthur Ernest",male,57,99,96,81,93,98,61,English,1,2,88.25,History
+680,"Beane, Mrs. Edward (Ethel Clarke)",female,77,96,68,63,67,71,79,Physics,6,4,66,Sports
+681,"Padro y Manent, Mr. Julian",male,44,72,62,67,86,71,60,Chemistry,5,4,72.75,Sports
+682,"Goldsmith, Mr. Frank John",male,79,84,98,60,93,96,74,English,7,4,77.25,Extracurricular
+683,"Davies, Master. John Morgan Jr",male,42,92,61,62,100,89,95,Maths,6,6,78.25,Physics
+684,"Thayer, Mr. John Borland Jr",male,57,81,82,29,91,95,81,English,4,2,61,Chemistry
+685,"Sharp, Mr. Percival James R",male,94,94,76,62,92,78,77,Maths,1,5,73.5,Maths
+686,"O'Brien, Mr. Timothy",male,41,84,60,94,67,87,63,Maths,6,5,85.5,Maths
+687,"Leeni, Mr. Fahim (""Philip Zenni"")",male,54,88,68,85,63,72,74,Physics,4,6,76.25,Extracurricular
+688,"Ohman, Miss. Velin",female,90,78,86,77,92,71,85,Chemistry,7,2,79.25,Sports
+689,"Wright, Mr. George",male,62,97,99,53,98,98,86,Maths,2,3,75.5,Sports
+690,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,54,100,98,93,83,89,69,Chemistry,3,6,89.5,Extracurricular
+691,"Robbins, Mr. Victor",male,44,72,70,49,99,75,71,Physics,4,1,68,Sports
+692,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,68,95,61,73,100,100,89,Physics,7,4,86.5,Maths
+693,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,97,96,84,66,66,89,76,Chemistry,1,1,71.75,Sports
+694,"Morrow, Mr. Thomas Rowan",male,77,94,61,77,70,81,72,Maths,4,3,76.25,Extracurricular
+695,"Sivic, Mr. Husein",male,75,75,83,49,63,74,74,Biology,1,3,58.75,Physics
+696,"Norman, Mr. Robert Douglas",male,91,100,67,79,81,79,99,Biology,1,6,79.5,Chemistry
+697,"Simmons, Mr. John",male,42,97,77,75,95,84,75,Biology,5,1,82.25,Maths
+698,"Meanwell, Miss. (Marion Ogden)",female,87,100,65,59,68,87,84,Biology,5,3,68.25,Physics
+699,"Davies, Mr. Alfred J",male,43,90,69,57,94,84,97,Chemistry,2,2,73,Physics
+700,"Stoytcheff, Mr. Ilia",male,90,78,100,66,86,83,90,Physics,5,4,75.25,Chemistry
+701,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,94,71,74,79,67,82,91,Chemistry,7,5,76.75,Zoology
+702,"Doharr, Mr. Tannous",male,67,71,87,57,100,70,72,Maths,2,1,71,Biology
+703,"Jonsson, Mr. Carl",male,91,88,98,87,81,94,85,Biology,7,2,87.25,Maths
+704,"Harris, Mr. George",male,65,88,64,63,71,81,79,Physics,1,4,69.5,Zoology
+705,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,100,96,85,59,53,95,75,Maths,4,2,66.5,Zoology
+706,"Flynn, Mr. John Irwin (""Irving"")",male,91,79,83,62,64,78,98,Biology,4,6,66.5,Biology
+707,"Kelly, Miss. Mary",female,46,81,92,46,69,95,60,Physics,3,2,64,Biology
+708,"Rush, Mr. Alfred George John",male,93,96,90,66,71,71,83,Language,1,6,68.5,Extracurricular
+709,"Patchett, Mr. George",male,44,96,74,89,77,82,86,English,4,2,84.25,Extracurricular
+710,"Garside, Miss. Ethel",female,59,80,62,42,93,73,72,Language,5,1,62.5,Zoology
+711,"Silvey, Mrs. William Baird (Alice Munger)",female,43,83,65,93,81,79,64,Physics,5,5,86.5,Biology
+712,"Caram, Mrs. Joseph (Maria Elias)",female,61,72,97,80,55,74,91,English,1,1,72.25,Maths
+713,"Jussila, Mr. Eiriik",male,61,86,96,98,66,82,86,Language,3,6,86,Sports
+714,"Christy, Miss. Julie Rachel",female,74,70,99,81,79,98,82,Chemistry,4,5,84.75,Chemistry
+715,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,84,88,67,60,55,95,79,Maths,3,4,67.5,Physics
+716,"Downton, Mr. William James",male,98,97,73,76,93,88,78,Chemistry,1,4,83.25,Extracurricular
+717,"Ross, Mr. John Hugo",male,62,100,67,73,56,73,86,Physics,1,5,68.75,Biology
+718,"Paulner, Mr. Uscher",male,100,73,82,96,76,72,93,Maths,5,5,85,Physics
+719,"Taussig, Miss. Ruth",female,75,90,97,76,50,77,99,English,2,3,69.75,Maths
+720,"Jarvis, Mr. John Denzil",male,73,77,65,91,55,87,93,Physics,2,3,81,Biology
+721,"Frolicher-Stehli, Mr. Maxmillian",male,74,100,79,62,68,71,82,English,4,6,65.75,Zoology
+722,"Gilinski, Mr. Eliezer",male,65,98,97,55,68,82,70,Maths,7,3,65,Biology
+723,"Murdlin, Mr. Joseph",male,95,93,69,74,60,89,84,Maths,5,1,74.25,Extracurricular
+724,"Rintamaki, Mr. Matti",male,48,88,74,50,76,90,93,Biology,6,4,66.5,Physics
+725,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,50,100,78,47,50,100,97,Physics,7,6,61,Sports
+726,"Elsbury, Mr. William James",male,83,98,93,81,56,76,97,Chemistry,5,6,73.5,Sports
+727,"Bourke, Miss. Mary",female,51,91,64,65,61,71,97,Physics,5,2,65.5,Sports
+728,"Chapman, Mr. John Henry",male,99,97,86,68,97,81,60,Maths,7,5,78.5,Sports
+729,"Van Impe, Mr. Jean Baptiste",male,88,82,89,73,87,89,86,English,1,4,80.5,Extracurricular
+730,"Leitch, Miss. Jessie Wills",female,55,95,92,53,71,78,64,Language,7,1,63.75,Maths
+731,"Johnson, Mr. Alfred",male,90,92,78,68,63,93,66,Maths,6,6,73,Extracurricular
+732,"Boulos, Mr. Hanna",male,83,84,98,55,62,98,61,Physics,1,3,67.5,Maths
+733,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,99,78,72,87,56,70,69,Chemistry,6,4,75,Biology
+734,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,49,92,96,55,99,71,90,Maths,4,3,70,Zoology
+735,"Slabenoff, Mr. Petco",male,87,70,68,53,88,99,77,Language,6,6,73.25,Extracurricular
+736,"Harrington, Mr. Charles H",male,59,72,62,67,75,96,94,Physics,3,1,76.25,Physics
+737,"Torber, Mr. Ernst William",male,40,70,98,92,90,95,86,Chemistry,7,5,92.25,Chemistry
+738,"Homer, Mr. Harry (""Mr E Haven"")",male,54,71,69,53,66,88,96,Maths,2,2,65,Chemistry
+739,"Lindell, Mr. Edvard Bengtsson",male,72,100,70,81,100,97,72,Chemistry,1,1,89.75,Physics
+740,"Karaic, Mr. Milan",male,98,99,79,61,96,93,91,Physics,7,6,77.75,Maths
+741,"Daniel, Mr. Robert Williams",male,57,94,65,80,96,86,91,English,1,4,85.5,Physics
+742,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,40,78,86,37,67,94,66,Physics,5,6,58.75,Extracurricular
+743,"Shutes, Miss. Elizabeth W",female,50,86,66,81,84,75,82,Chemistry,1,4,80.25,Chemistry
+744,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,79,77,63,59,50,79,82,Chemistry,7,5,61.75,Maths
+745,"Jardin, Mr. Jose Neto",male,48,94,92,55,100,74,91,Language,4,4,71,Physics
+746,"Murphy, Miss. Margaret Jane",female,54,81,96,72,61,92,77,Maths,4,2,74.25,Extracurricular
+747,"Horgan, Mr. John",male,75,77,73,69,74,74,79,English,7,5,71.5,Zoology
+748,"Brocklebank, Mr. William Alfred",male,47,78,97,69,91,73,96,English,6,4,75.5,Chemistry
+749,"Herman, Miss. Alice",female,90,98,80,50,55,75,94,Physics,7,4,57.5,Sports
+750,"Danbom, Mr. Ernst Gilbert",male,82,74,87,87,59,70,81,Chemistry,4,3,75.75,Maths
+751,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,71,76,70,71,84,82,63,Maths,5,1,77,Physics
+752,"Becker, Miss. Marion Louise",female,73,91,78,68,90,73,71,Chemistry,7,3,74.75,History
+753,"Gavey, Mr. Lawrence",male,84,79,76,79,99,87,66,Physics,5,2,86,Sports
+754,"Yasbeck, Mr. Antoni",male,90,87,82,77,57,99,72,Maths,2,1,77.5,Biology
+755,"Kimball, Mr. Edwin Nelson Jr",male,53,82,82,58,61,73,85,English,4,2,62.5,Maths
+756,"Nakid, Mr. Sahid",male,82,96,89,84,99,79,99,Physics,4,3,86.5,Extracurricular
+757,"Hansen, Mr. Henry Damsgaard",male,81,72,65,55,74,79,84,English,3,4,65.75,Maths
+758,"Bowen, Mr. David John ""Dai""",male,90,81,73,70,50,77,60,Maths,5,4,66.75,Zoology
+759,"Sutton, Mr. Frederick",male,94,77,71,52,81,89,86,Maths,6,5,68.5,Maths
+760,"Kirkland, Rev. Charles Leonard",male,51,100,73,69,57,94,91,Biology,4,4,72.25,Sports
+761,"Longley, Miss. Gretchen Fiske",female,76,92,77,53,86,88,78,Physics,3,4,70,Physics
+762,"Bostandyeff, Mr. Guentcho",male,53,100,86,48,98,85,64,Chemistry,7,1,69.75,History
+763,"O'Connell, Mr. Patrick D",male,90,83,63,78,82,76,75,Physics,4,2,78.5,Biology
+764,"Barkworth, Mr. Algernon Henry Wilson",male,95,74,86,62,64,86,68,Maths,1,1,68.5,Maths
+765,"Lundahl, Mr. Johan Svensson",male,42,87,77,60,84,86,97,English,1,5,72.5,Sports
+766,"Stahelin-Maeglin, Dr. Max",male,43,72,96,74,50,79,78,Language,3,4,69.25,Extracurricular
+767,"Parr, Mr. William Henry Marsh",male,41,75,93,58,97,82,76,Maths,4,2,73.75,Sports
+768,"Skoog, Miss. Mabel",female,83,92,74,76,85,74,81,Physics,1,3,77.75,Extracurricular
+769,"Davis, Miss. Mary",female,53,99,65,68,82,87,61,Chemistry,2,2,76.25,Extracurricular
+770,"Leinonen, Mr. Antti Gustaf",male,93,82,81,58,87,94,85,Maths,6,5,74.25,Maths
+771,"Collyer, Mr. Harvey",male,67,78,87,52,63,71,86,Language,5,3,59.5,Physics
+772,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,56,96,63,75,78,98,68,Physics,7,2,81.5,Sports
+773,"Thorneycroft, Mr. Percival",male,53,91,67,52,76,74,96,Chemistry,4,3,63.5,Zoology
+774,"Jensen, Mr. Hans Peder",male,57,70,74,62,57,80,72,Maths,3,6,65.25,Extracurricular
+775,"Sagesser, Mlle. Emma",female,56,79,83,66,62,81,80,Chemistry,2,4,68.75,History
+776,"Skoog, Miss. Margit Elizabeth",female,91,84,78,49,61,71,94,Physics,5,3,57.5,Sports
+777,"Foo, Mr. Choong",male,48,77,98,66,75,93,79,English,1,3,75,Chemistry
+778,"Baclini, Miss. Eugenie",female,64,85,84,35,67,95,64,Physics,2,1,58,Physics
+779,"Harper, Mr. Henry Sleeper",male,65,94,76,72,76,82,74,Chemistry,6,6,75.5,Extracurricular
+780,"Cor, Mr. Liudevit",male,57,88,90,94,51,72,62,Chemistry,2,5,77.75,History
+781,"Simonius-Blumer, Col. Oberst Alfons",male,45,72,60,46,80,73,84,Language,1,4,61.25,Chemistry
+782,"Willey, Mr. Edward",male,100,92,83,77,97,78,67,Maths,4,1,82.25,Extracurricular
+783,"Stanley, Miss. Amy Zillah Elsie",female,76,75,63,76,73,76,91,English,3,2,75.25,Physics
+784,"Mitkoff, Mr. Mito",male,64,86,82,52,75,89,84,English,3,2,67,History
+785,"Doling, Miss. Elsie",female,66,85,79,91,59,84,63,Physics,3,5,81.25,Chemistry
+786,"Kalvik, Mr. Johannes Halvorsen",male,41,84,63,32,60,97,64,English,6,3,55.25,History
+787,"O'Leary, Miss. Hanora ""Norah""",female,47,93,83,72,94,75,64,Physics,1,6,78.25,Sports
+788,"Hegarty, Miss. Hanora ""Nora""",female,68,72,92,19,68,94,66,Chemistry,6,4,50,Sports
+789,"Hickman, Mr. Leonard Mark",male,58,73,96,68,62,72,93,English,7,3,67.5,Extracurricular
+790,"Radeff, Mr. Alexander",male,74,96,73,52,69,72,83,Maths,5,6,61.25,Physics
+791,"Bourke, Mrs. John (Catherine)",female,44,70,79,48,78,97,72,English,3,2,67.75,Chemistry
+792,"Eitemiller, Mr. George Floyd",male,41,89,87,60,84,81,76,Maths,3,4,71.25,Maths
+793,"Newell, Mr. Arthur Webster",male,98,76,94,66,64,76,89,Maths,2,6,68,Maths
+794,"Frauenthal, Dr. Henry William",male,42,70,73,89,100,97,93,Physics,6,6,93.75,Extracurricular
+795,"Badt, Mr. Mohamed",male,83,89,89,42,54,74,77,Chemistry,6,4,53,Sports
+796,"Colley, Mr. Edward Pomeroy",male,60,95,74,57,51,91,82,Maths,7,3,64,Sports
+797,"Coleff, Mr. Peju",male,49,97,100,70,83,81,61,Chemistry,5,1,76,Extracurricular
+798,"Lindqvist, Mr. Eino William",male,88,79,71,70,57,82,67,Physics,6,4,69.75,Sports
+799,"Hickman, Mr. Lewis",male,54,86,91,69,55,70,81,Physics,2,4,65.75,Maths
+800,"Butler, Mr. Reginald Fenton",male,93,96,85,52,63,87,72,Chemistry,3,5,63.5,Sports
+801,"Rommetvedt, Mr. Knud Paust",male,40,83,98,67,83,98,84,Maths,2,4,78.75,Extracurricular
+802,"Cook, Mr. Jacob",male,81,84,79,76,73,94,90,Biology,4,5,79.75,Physics
+803,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,87,82,69,87,62,79,69,Biology,1,1,78.75,Chemistry
+804,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,67,76,74,82,77,86,97,Biology,3,6,81.75,Maths
+805,"Davidson, Mr. Thornton",male,61,83,83,73,97,99,87,Biology,1,3,85.5,Physics
+806,"Mitchell, Mr. Henry Michael",male,61,92,82,75,94,87,67,Chemistry,4,2,82.75,Physics
+807,"Wilhelms, Mr. Charles",male,91,85,88,64,99,87,71,Physics,2,5,78.5,Chemistry
+808,"Watson, Mr. Ennis Hastings",male,48,88,67,41,79,84,72,Physics,2,6,61.25,Zoology
+809,"Edvardsson, Mr. Gustaf Hjalmar",male,95,90,92,90,89,92,91,Maths,4,5,90.25,Biology
+810,"Sawyer, Mr. Frederick Charles",male,49,87,94,59,84,74,84,English,5,1,69,Maths
+811,"Turja, Miss. Anna Sofia",female,68,99,89,51,59,76,86,Physics,3,3,59.25,Zoology
+812,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,45,98,92,45,80,71,72,English,3,2,60.25,Zoology
+813,"Cardeza, Mr. Thomas Drake Martinez",male,40,92,76,54,65,79,72,Maths,1,2,63,Biology
+814,"Peters, Miss. Katie",female,43,97,82,87,87,80,60,Maths,4,6,85.25,Biology
+815,"Hassab, Mr. Hammad",male,48,78,89,72,54,70,82,Biology,2,2,67,Extracurricular
+816,"Olsvigen, Mr. Thor Anderson",male,90,89,83,94,67,100,72,Physics,4,4,88.75,Extracurricular
+817,"Goodwin, Mr. Charles Edward",male,66,76,81,45,70,84,87,Chemistry,2,1,61,Zoology
+818,"Brown, Mr. Thomas William Solomon",male,77,88,100,61,64,78,84,Physics,1,1,66,Biology
+819,"Laroche, Mr. Joseph Philippe Lemercier",male,42,95,75,60,55,76,74,Maths,4,1,62.75,Maths
+820,"Panula, Mr. Jaako Arnold",male,41,99,67,77,91,88,100,English,3,1,83.25,Sports
+821,"Dakic, Mr. Branko",male,69,91,71,85,62,86,87,Language,5,4,79.5,Chemistry
+822,"Fischer, Mr. Eberhard Thelander",male,78,82,90,78,77,75,91,Maths,5,2,77,Physics
+823,"Madill, Miss. Georgette Alexandra",female,81,100,92,49,55,92,89,Physics,1,6,61.25,Extracurricular
+824,"Dick, Mr. Albert Adrian",male,80,71,67,71,63,89,62,Chemistry,1,6,73.5,Biology
+825,"Karun, Miss. Manca",female,88,83,68,48,71,90,61,Maths,7,5,64.25,Physics
+826,"Lam, Mr. Ali",male,41,78,85,62,69,93,67,Language,6,5,71.5,Maths
+827,"Saad, Mr. Khalil",male,53,91,70,56,82,76,64,Physics,7,4,67.5,Biology
+828,"Weir, Col. John",male,45,71,86,65,78,72,69,Chemistry,5,3,70,Zoology
+829,"Chapman, Mr. Charles Henry",male,77,90,64,69,55,94,93,Maths,1,2,71.75,Biology
+830,"Kelly, Mr. James",male,59,92,68,68,71,94,61,Chemistry,7,6,75.25,Extracurricular
+831,"Mullens, Miss. Katherine ""Katie""",female,71,86,69,61,78,90,65,Physics,2,2,72.5,Physics
+832,"Thayer, Mr. John Borland",male,60,90,84,74,69,96,67,English,5,2,78.25,Sports
+833,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,51,91,73,64,54,79,66,Physics,7,1,65.25,Sports
+834,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,77,89,96,77,57,94,92,Chemistry,2,1,76.25,Sports
+835,"Silverthorne, Mr. Spencer Victor",male,84,80,97,58,55,100,93,Chemistry,2,5,67.75,Sports
+836,"Barbara, Miss. Saiide",female,57,74,67,60,59,89,68,Language,3,1,67,Extracurricular
+837,"Gallagher, Mr. Martin",male,60,76,96,73,91,74,76,Maths,3,6,77.75,Maths
+838,"Hansen, Mr. Henrik Juul",male,47,73,98,75,84,72,89,English,6,4,76.5,Extracurricular
+839,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,64,73,86,58,58,82,71,English,5,1,64,Maths
+840,"Kelly, Mrs. Florence ""Fannie""",female,91,94,75,66,86,92,65,Physics,6,6,77.5,Biology
+841,"Calderhead, Mr. Edward Pennington",male,83,80,90,39,66,76,62,Chemistry,1,3,55,Zoology
+842,"Cleaver, Miss. Alice",female,90,92,75,64,66,72,61,Maths,6,6,66.5,Extracurricular
+843,"Moubarek, Master. Halim Gonios (""William George"")",male,95,95,99,23,89,75,74,Chemistry,5,3,52.5,Physics
+844,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,45,96,64,74,64,78,80,Physics,5,1,72.5,Chemistry
+845,"Klaber, Mr. Herman",male,55,99,69,40,82,81,92,Maths,5,2,60.75,Chemistry
+846,"Taylor, Mr. Elmer Zebley",male,71,88,75,90,73,98,69,English,5,2,87.75,Physics
+847,"Larsson, Mr. August Viktor",male,91,72,77,91,98,97,72,Physics,2,3,94.25,Maths
+848,"Greenberg, Mr. Samuel",male,70,89,60,64,67,95,79,English,2,1,72.5,Physics
+849,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,91,95,85,59,68,98,75,Maths,4,2,71,Extracurricular
+850,"Endres, Miss. Caroline Louise",female,71,100,98,80,62,93,69,Maths,3,6,78.75,Chemistry
+851,"Troutt, Miss. Edwina Celia ""Winnie""",female,74,82,69,71,63,89,88,Biology,6,5,73.5,Maths
+852,"McEvoy, Mr. Michael",male,53,83,85,61,84,81,66,Physics,6,6,71.75,Physics
+853,"Johnson, Mr. Malkolm Joackim",male,43,78,78,87,64,86,63,Chemistry,3,3,81,Extracurricular
+854,"Harper, Miss. Annie Jessie ""Nina""",female,86,89,66,82,63,70,98,Physics,5,3,74.25,Zoology
+855,"Jensen, Mr. Svend Lauritz",male,94,97,70,62,81,86,83,Maths,6,4,72.75,Chemistry
+856,"Gillespie, Mr. William Henry",male,76,96,60,97,73,97,79,English,7,3,91,Sports
+857,"Hodges, Mr. Henry Price",male,75,90,79,75,85,74,91,Language,6,4,77.25,Maths
+858,"Chambers, Mr. Norman Campbell",male,83,72,95,65,63,70,66,Maths,5,6,65.75,Physics
+859,"Oreskovic, Mr. Luka",male,88,86,63,52,81,96,86,Physics,1,2,70.25,History
+860,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,42,95,99,87,53,87,78,Chemistry,2,5,78.5,Sports
+861,"Mannion, Miss. Margareth",female,58,79,70,53,85,82,82,Maths,5,6,68.25,Biology
+862,"Bryhl, Mr. Kurt Arnold Gottfrid",male,70,88,86,81,66,97,75,Language,4,2,81.25,Maths
+863,"Ilmakangas, Miss. Pieta Sofia",female,73,77,67,39,91,72,95,Physics,2,3,60.25,Extracurricular
+864,"Allen, Miss. Elisabeth Walton",female,83,78,90,71,59,73,63,Chemistry,2,6,68.5,Maths
+865,"Hassan, Mr. Houssein G N",male,96,93,85,97,93,92,72,Maths,6,3,94.75,Zoology
+866,"Knight, Mr. Robert J",male,90,80,98,82,93,96,63,Chemistry,7,2,88.25,Maths
+867,"Berriman, Mr. William John",male,99,96,96,59,60,70,61,Physics,5,2,62,Sports
+868,"Troupiansky, Mr. Moses Aaron",male,61,80,70,61,64,83,98,English,1,6,67.25,Physics
+869,"Williams, Mr. Leslie",male,86,88,76,78,61,91,67,Physics,3,2,77,History
+870,"Ford, Mrs. Edward (Margaret Ann Watson)",female,61,89,79,49,57,98,93,Chemistry,6,3,63.25,Biology
+871,"Lesurer, Mr. Gustave J",male,44,93,94,59,91,76,92,Chemistry,4,5,71.25,Maths
+872,"Ivanoff, Mr. Kanio",male,80,92,78,70,88,97,70,Language,4,1,81.25,Sports
+873,"Nankoff, Mr. Minko",male,67,89,89,82,71,71,90,Maths,1,3,76.5,Extracurricular
+874,"Hawksford, Mr. Walter James",male,89,89,87,90,75,78,66,English,7,3,83.25,Sports
+875,"Cavendish, Mr. Tyrell William",male,69,91,67,43,97,71,83,English,7,2,63.5,Extracurricular
+876,"Ryerson, Miss. Susan Parker ""Suzette""",female,46,81,72,80,58,95,81,Physics,1,2,78.25,Extracurricular
+877,"McNamee, Mr. Neal",male,56,86,79,81,81,70,88,English,2,5,78.25,Maths
+878,"Stranden, Mr. Juho",male,83,71,70,57,100,72,93,Physics,2,5,71.5,Physics
+879,"Crosby, Capt. Edward Gifford",male,72,78,76,59,76,74,88,Chemistry,1,1,67,Sports
+880,"Abbott, Mr. Rossmore Edward",male,64,100,60,64,81,84,87,English,6,5,73.25,Zoology
+881,"Sinkkonen, Miss. Anna",female,52,92,72,63,93,79,74,Maths,5,1,74.5,Extracurricular
+882,"Marvin, Mr. Daniel Warner",male,45,78,72,71,75,78,98,English,3,2,73.75,History
+883,"Connaghton, Mr. Michael",male,68,86,87,64,98,88,95,Maths,2,4,78.5,Sports+O901
+884,"Wells, Miss. Joan",female,81,81,93,55,60,85,94,Maths,6,2,63.75,Chemistry
+885,"Moor, Master. Meier",male,75,72,69,51,90,92,73,Physics,4,2,71,Physics
+886,"Vande Velde, Mr. Johannes Joseph",male,90,92,75,62,54,92,80,Chemistry,4,5,67.5,Extracurricular
+887,"Jonkoff, Mr. Lalio",male,80,94,89,93,62,78,89,Maths,2,2,81.5,History
+888,"Herman, Mrs. Samuel (Jane Laver)",female,97,98,64,54,94,74,100,Chemistry,3,2,69,Chemistry
+889,"Hamalainen, Master. Viljo",male,50,73,72,69,62,93,82,Physics,6,3,73.25,Extracurricular
+890,"Carlsson, Mr. August Sigfrid",male,79,83,99,44,91,99,83,Physics,3,2,69.5,Physics
+891,"Bailey, Mr. Percy Andrew",male,83,86,99,86,88,88,87,Chemistry,4,2,87,History
+892,"Theobald, Mr. Thomas Leonard",male,91,81,100,85,57,99,89,Maths,3,5,81.5,Chemistry
+893,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,63,97,80,50,90,100,98,Biology,4,4,72.5,History
+894,"Garfirth, Mr. John",male,99,73,61,88,82,75,92,Biology,3,3,83.25,Sports
+895,"Nirva, Mr. Iisakki Antino Aijo",male,81,87,72,59,92,93,99,Biology,5,5,75.75,Sports
+896,"Barah, Mr. Hanna Assi",male,60,83,84,32,61,72,78,Biology,2,5,49.25,Extracurricular
+897,"Carter, Mrs. William Ernest (Lucile Polk)",female,54,73,91,36,51,70,71,Chemistry,6,6,48.25,Physics
+898,"Eklund, Mr. Hans Linus",male,92,97,96,63,61,75,73,Physics,1,5,65.5,Chemistry
+899,"Hogeboom, Mrs. John C (Anna Andrews)",female,57,91,76,67,51,84,82,Physics,3,1,67.25,Maths
+900,"Brewe, Dr. Arthur Jackson",male,51,81,83,65,99,76,66,English,2,1,76.25,Maths
+901,"Mangan, Miss. Mary",female,45,72,78,85,76,71,84,Maths,3,3,79.25,Extracurricular
+902,"Moran, Mr. Daniel J",male,73,72,72,73,84,89,86,Chemistry,3,2,79.75,Sports
+903,"Gronnestad, Mr. Daniel Danielsen",male,50,84,77,34,92,74,88,Biology,7,4,58.5,Sports
+904,"Lievens, Mr. Rene Aime",male,75,80,83,93,95,86,68,Language,2,5,91.75,Extracurricular
+905,"Jensen, Mr. Niels Peder",male,89,84,99,67,89,76,62,English,1,2,74.75,Sports
+906,"Mack, Mrs. (Mary)",female,61,91,70,88,83,71,67,Zoology,2,2,82.5,Maths
+907,"Elias, Mr. Dibo",male,59,100,95,57,59,75,96,Maths,7,4,62,Sports
+908,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,79,95,98,79,100,92,84,Physics,5,4,87.5,Extracurricular
+909,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,100,93,90,67,89,85,95,Biology,7,2,77,Physics
+910,"Tobin, Mr. Roger",male,80,99,68,70,56,97,66,Maths,7,1,73.25,Chemistry
+911,"Emanuel, Miss. Virginia Ethel",female,55,87,65,50,59,92,79,Physics,1,6,62.75,Maths
+912,"Kilgannon, Mr. Thomas J",male,56,76,81,69,83,79,100,Zoology,6,6,75,Physics
+913,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,60,96,68,52,82,95,79,Chemistry,2,6,70.25,Physics
+914,"Ayoub, Miss. Banoura",female,99,79,69,47,54,79,95,Maths,4,6,56.75,Chemistry
+915,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,56,74,88,46,93,82,83,Physics,7,2,66.75,Zoology
+916,"Long, Mr. Milton Clyde",male,46,77,90,68,80,97,87,Maths,3,1,78.25,Biology
+917,"Johnston, Mr. Andrew G",male,44,91,60,100,51,94,75,Chemistry,3,2,86.25,Maths
+918,"Ali, Mr. William",male,57,92,92,44,52,75,82,English,1,1,53.75,Zoology
+919,"Harmer, Mr. Abraham (David Lishin)",male,50,88,79,57,61,98,66,Chemistry,5,5,68.25,Zoology
+920,"Sjoblom, Miss. Anna Sofia",female,79,92,62,91,74,80,72,Language,3,3,84,Biology
+921,"Rice, Master. George Hugh",male,86,90,74,69,51,80,98,Physics,4,2,67.25,Biology
+922,"Dean, Master. Bertram Vere",male,96,79,62,35,59,80,93,Biology,2,6,52.25,Extracurricular
+923,"Guggenheim, Mr. Benjamin",male,59,83,85,72,99,84,74,Zoology,4,5,81.75,Extracurricular
+924,"Keane, Mr. Andrew ""Andy""",male,55,97,62,54,64,100,94,Physics,2,1,68,Zoology
+925,"Gaskell, Mr. Alfred",male,65,97,75,74,60,99,84,Maths,5,2,76.75,Biology
+926,"Sage, Miss. Stella Anna",female,74,86,83,74,78,72,63,English,2,3,74.5,Maths
+927,"Hoyt, Mr. William Fisher",male,56,87,62,64,98,71,78,Language,4,4,74.25,Sports
+928,"Dantcheff, Mr. Ristiu",male,56,98,90,65,69,95,86,Chemistry,4,4,73.5,Chemistry
+929,"Otter, Mr. Richard",male,51,88,65,46,99,73,93,Physics,6,6,66,Physics
+930,"Leader, Dr. Alice (Farnham)",female,55,84,66,48,94,85,88,Maths,6,5,68.75,Extracurricular
+931,"Osman, Mrs. Mara",female,94,91,67,67,54,71,96,English,4,3,64.75,Biology
+932,"Ibrahim Shawah, Mr. Yousseff",male,75,73,95,62,89,75,67,Chemistry,5,6,72,Physics
+933,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,47,96,97,61,74,79,95,Maths,7,5,68.75,Maths
+934,"Ponesell, Mr. Martin",male,56,93,99,70,84,98,99,Physics,4,3,80.5,Biology
+935,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,55,86,60,98,51,90,61,Chemistry,3,5,84.25,Zoology
+936,"Carter, Master. William Thornton II",male,56,90,67,70,97,70,94,Maths,8,4,76.75,Biology
+937,"Thomas, Master. Assad Alexander",male,51,97,78,67,66,98,68,Physics,6,3,74.5,Extracurricular
+938,"Hedman, Mr. Oskar Arvid",male,60,72,64,57,53,96,98,Maths,4,1,65.75,Physics
+939,"Johansson, Mr. Karl Johan",male,72,92,97,85,54,71,88,English,5,6,73.75,Sports
+940,"Andrews, Mr. Thomas Jr",male,50,91,85,77,52,87,70,Language,6,4,73.25,Sports
+941,"Pettersson, Miss. Ellen Natalia",female,65,78,82,72,56,94,67,Maths,1,2,73.5,Sports
+942,"Meyer, Mr. August",male,49,94,90,78,57,91,81,Physics,5,3,76,Sports
+943,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,86,75,64,81,87,89,62,Chemistry,8,3,84.5,Extracurricular
+944,"Alexander, Mr. William",male,69,95,79,61,90,83,63,Physics,3,1,73.75,Maths
+945,"Lester, Mr. James",male,65,83,80,58,68,84,95,Maths,4,2,67,Extracurricular
+946,"Slemen, Mr. Richard James",male,93,85,60,54,66,89,62,Language,2,2,65.75,Maths
+947,"Andersson, Miss. Ebba Iris Alfrida",female,42,75,65,82,85,87,90,Language,5,4,84,Biology
+948,"Tomlin, Mr. Ernest Portage",male,46,86,92,49,92,71,78,Language,6,1,65.25,Zoology
+949,"Fry, Mr. Richard",male,99,94,90,49,65,92,72,English,4,4,63.75,Extracurricular
+950,"Heininen, Miss. Wendla Maria",female,99,82,87,57,59,87,99,English,3,3,65,Physics
+951,"Mallet, Mr. Albert",male,60,71,83,94,56,72,63,Physics,1,5,79,Chemistry
+952,"Holm, Mr. John Fredrik Alexander",male,54,91,61,75,74,70,96,Chemistry,3,5,73.5,Chemistry
+953,"Skoog, Master. Karl Thorsten",male,91,72,71,74,96,82,61,Physics,5,4,81.5,Physics
+954,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,85,74,68,58,75,82,95,Physics,8,3,68.25,Maths
+955,"Lulic, Mr. Nikola",male,71,75,96,62,76,84,92,Maths,6,1,71,Physics
+956,"Reuchlin, Jonkheer. John George",male,62,82,83,72,59,77,63,Maths,6,4,70,Extracurricular
+957,"Moor, Mrs. (Beila)",female,40,93,86,84,60,91,60,Language,8,1,79.75,Chemistry
+958,"Panula, Master. Urho Abraham",male,75,90,70,92,73,80,93,Chemistry,5,5,84.25,Maths
+959,"Flynn, Mr. John",male,99,100,75,45,96,97,98,English,1,2,70.75,Physics
+960,"Lam, Mr. Len",male,40,84,71,75,61,84,100,Physics,3,6,73.75,Extracurricular
+961,"Mallet, Master. Andre",male,65,100,85,56,92,87,98,Chemistry,6,2,72.75,Zoology
+962,"McCormack, Mr. Thomas Joseph",male,74,96,98,48,59,97,93,English,8,4,63,Chemistry
+963,"Stone, Mrs. George Nelson (Martha Evelyn)",female,43,76,61,100,74,100,77,Maths,6,5,93.5,Sports
+964,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,46,83,70,65,67,97,82,English,5,6,73.5,Sports
+965,"Richards, Master. George Sibley",male,50,91,87,72,55,83,64,Maths,6,5,70.5,Biology
+966,"Saad, Mr. Amin",male,71,70,81,62,71,93,62,Maths,7,4,72,Physics
+967,"Augustsson, Mr. Albert",male,100,86,62,66,83,94,65,Physics,8,1,77.25,Maths
+968,"Allum, Mr. Owen George",male,74,92,86,63,96,82,93,Chemistry,1,5,76,Biology
+969,"Compton, Miss. Sara Rebecca",female,59,70,69,68,78,90,60,Maths,6,6,76,Zoology
+970,"Pasic, Mr. Jakob",male,67,95,60,75,83,75,96,Chemistry,8,1,77,Biology
+971,"Sirota, Mr. Maurice",male,67,84,74,89,58,83,66,Physics,7,3,79.75,Extracurricular
+972,"Chip, Mr. Chang",male,50,87,99,78,88,78,100,Physics,4,2,80.5,Physics
+973,"Marechal, Mr. Pierre",male,86,96,75,53,61,73,63,Chemistry,7,2,60,Sports
+974,"Alhomaki, Mr. Ilmari Rudolf",male,50,90,71,49,60,99,83,Maths,2,3,64.25,Sports
+975,"Mudd, Mr. Thomas Charles",male,90,72,81,54,52,86,89,Biology,2,1,61.5,Sports
+976,"Serepeca, Miss. Augusta",female,49,83,68,64,68,99,99,Biology,6,1,73.75,Sports
+977,"Lemberopolous, Mr. Peter L",male,100,73,79,60,68,72,82,Biology,3,1,65,Extracurricular
+978,"Culumovic, Mr. Jeso",male,45,81,73,62,62,73,92,Biology,7,4,64.75,Maths
+979,"Abbing, Mr. Anthony",male,43,73,84,55,54,88,62,Chemistry,4,6,63,Extracurricular
+980,"Sage, Mr. Douglas Bullen",male,92,89,86,91,98,78,89,Physics,4,1,89.5,Maths
+981,"Markoff, Mr. Marin",male,51,92,77,8,85,71,77,Chemistry,4,1,43,Biology
+982,"Harper, Rev. John",male,63,97,98,81,91,98,65,Maths,5,5,87.75,Zoology
+983,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,57,91,65,79,64,95,85,Biology,4,1,79.25,Extracurricular
+984,"Andersson, Master. Sigvard Harald Elias",male,99,81,62,78,63,89,74,Physics,8,3,77,Physics
+985,"Svensson, Mr. Johan",male,65,87,88,74,58,86,99,Maths,2,6,73,Chemistry
+986,"Boulos, Miss. Nourelain",female,54,78,66,57,89,77,91,Biology,8,1,70,Chemistry
+987,"Lines, Miss. Mary Conover",female,100,90,97,40,98,70,81,Physics,7,1,62,Physics
+988,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,52,87,86,81,55,83,91,Language,4,5,75,Maths
+989,"Aks, Mrs. Sam (Leah Rosen)",female,92,100,71,44,90,79,81,English,3,3,64.25,Physics
+990,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,62,80,78,67,66,89,74,Language,6,4,72.25,Extracurricular
+991,"Daly, Mr. Peter Denis ",male,47,76,79,86,63,91,93,Physics,7,3,81.5,Chemistry
+992,"Baclini, Mrs. Solomon (Latifa Qurban)",female,65,70,98,65,85,73,66,English,8,2,72,Maths
+993,"Razi, Mr. Raihed",male,41,77,68,55,88,96,74,Language,1,4,73.5,Physics
+994,"Hansen, Mr. Claus Peter",male,56,85,60,62,83,87,72,Chemistry,2,5,73.5,Extracurricular
+995,"Giles, Mr. Frederick Edward",male,82,96,72,63,61,88,84,Maths,6,1,68.75,Zoology
+996,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,55,76,97,88,82,79,98,Chemistry,5,1,84.25,Chemistry
+997,"Sage, Miss. Dorothy Edith ""Dolly""",female,83,85,88,62,69,85,80,Physics,2,6,69.5,Sports
+998,"Gill, Mr. John William",male,70,76,61,59,53,96,79,Maths,4,6,66.75,Extracurricular
+999,"Bystrom, Mrs. (Karolina)",female,47,70,94,68,72,89,93,English,6,5,74.25,Maths
+1000,"Duran y More, Miss. Asuncion",female,91,96,65,77,99,76,98,Physics,5,6,82.25,Extracurricular
+1001,"Roebling, Mr. Washington Augustus II",male,62,99,62,86,75,91,64,English,5,5,84.5,Maths
+1002,"van Melkebeke, Mr. Philemon",male,70,94,69,71,87,88,65,Maths,2,5,79.25,Biology
+1003,"Johnson, Master. Harold Theodor",male,93,97,97,73,89,78,73,Zoology,2,4,78.25,Zoology
+1004,"Balkic, Mr. Cerin",male,44,94,63,77,94,90,80,Physics,1,3,84.5,Extracurricular
+1005,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,71,74,94,87,52,86,64,Maths,6,1,78,Physics
+1006,"Carlsson, Mr. Frans Olof",male,80,70,82,73,93,73,75,English,3,6,78,Chemistry
+1007,"Vander Cruyssen, Mr. Victor",male,51,75,90,94,64,100,60,Language,6,5,88,Chemistry
+1008,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,55,80,94,89,71,93,64,Chemistry,3,3,85.5,Physics
+1009,"Najib, Miss. Adele Kiamie ""Jane""",female,67,96,67,70,67,77,75,Physics,8,2,71,Maths
+1010,"Gustafsson, Mr. Alfred Ossian",male,75,81,76,62,97,74,82,Maths,5,3,73.75,Physics
+1011,"Petroff, Mr. Nedelio",male,55,98,88,82,94,89,76,English,3,3,86.75,Extracurricular
+1012,"Laleff, Mr. Kristo",male,83,91,82,85,57,78,91,Chemistry,1,3,76.25,Chemistry
+1013,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,62,92,74,60,95,78,94,Maths,1,1,73.25,Maths
+1014,"Shelley, Mrs. William (Imanita Parrish Hall)",female,72,96,99,91,74,76,80,Physics,8,5,83,Physics
+1015,"Markun, Mr. Johann",male,49,70,98,79,74,93,89,Chemistry,6,5,81.25,Extracurricular
+1016,"Dahlberg, Miss. Gerda Ulrika",female,64,78,99,90,62,84,87,Maths,1,3,81.5,Zoology
+1017,"Banfield, Mr. Frederick James",male,92,90,94,79,52,95,61,Physics,4,1,76.25,Chemistry
+1018,"Sutehall, Mr. Henry Jr",male,52,76,94,91,91,76,81,Maths,2,1,87.25,Physics
+1019,"Rice, Mrs. William (Margaret Norton)",female,40,89,87,68,68,73,93,English,7,4,69.25,Chemistry
+1020,"Montvila, Rev. Juozas",male,81,75,76,95,93,98,68,Language,8,5,95.25,Extracurricular
+1021,"Graham, Miss. Margaret Edith",female,40,76,83,78,76,100,78,Maths,8,1,83,Physics
+1022,"Johnston, Miss. Catherine Helen ""Carrie""",female,63,75,71,86,90,75,96,Physics,3,3,84.25,Chemistry
+1023,"Behr, Mr. Karl Howell",male,50,82,60,66,95,100,69,Chemistry,3,6,81.75,History
+1024,"Dooley, Mr. Patrick",male,84,84,86,64,91,89,76,Physics,7,6,77,Zoology
